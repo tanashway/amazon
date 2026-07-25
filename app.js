@@ -12,6 +12,12 @@ const documents = [
     summary: "Personality, voice, visual direction, and launch priorities."
   },
   {
+    title: "Brand Audit",
+    kicker: "Workshop",
+    summary: "6-point brand audit with score, rationale, and action items.",
+    type: "brandAudit"
+  },
+  {
     title: "Components",
     kicker: "Visual Guide",
     summary: "Illustrated reference for every main kit piece and add-on.",
@@ -54,6 +60,51 @@ const rawLink = document.querySelector("#rawLink");
 let activeIndex = 0;
 let activeMarkdown = "";
 const assetVersion = "68da2d9-components";
+
+const brandAuditRows = [
+  {
+    element: "The Why",
+    score: 3,
+    rating: "Competent",
+    rationale: "The brand now has a clear broader purpose around approachable home baking, but the final brand name, story, and founder/company origin still need to make the why feel more ownable.",
+    action: "Write a tighter one-paragraph origin story and define why this brand deserves to exist beyond selling baking tools."
+  },
+  {
+    element: "Core Values",
+    score: 3,
+    rating: "Competent",
+    rationale: "Values are documented: clarity, useful completeness, approachable craft, honest confidence, thoughtful quality, and share-worthy joy. They still need to be turned into operating standards.",
+    action: "Convert each value into 2-3 decision rules for sourcing, packaging, listing copy, inserts, support, and future product selection."
+  },
+  {
+    element: "Core Beliefs",
+    score: 3,
+    rating: "Competent",
+    rationale: "The brand has useful beliefs around learnable baking, clear guidance, good tools, and sharing. They are strong strategically but not yet expressed as memorable public-facing language.",
+    action: "Create 5-7 short belief statements that can appear in A+ content, packaging, inserts, and the brand story."
+  },
+  {
+    element: "Authority",
+    score: 2,
+    rating: "Needs Improvement",
+    rationale: "The authority strategy is planned but not yet proven. The brand needs visible expertise assets such as recipes, troubleshooting, workflow guides, videos, quality checklists, and care instructions.",
+    action: "Build a basic authority library: sourdough quick-start guide, starter care guide, basket care guide, blade safety guide, troubleshooting guide, and 3 short QR videos."
+  },
+  {
+    element: "Character",
+    score: 3,
+    rating: "Competent",
+    rationale: "The character is defined as a warm, capable baking mentor. The voice is clear, practical, and encouraging, but it still needs examples across Amazon copy, packaging, emails, and inserts.",
+    action: "Create a copy bank with headlines, bullets, insert language, support replies, and forbidden claims so every team member writes in the same voice."
+  },
+  {
+    element: "Design",
+    score: 2,
+    rating: "Needs Improvement",
+    rationale: "The visual direction is defined, but no final brand identity exists yet. Colors, typography, logo, packaging system, image hierarchy, and future-product scalability still need design execution.",
+    action: "Create 2-3 visual identity directions that work for a broader baking brand, not just sourdough, then test them against Amazon thumbnail readability."
+  }
+];
 
 const componentGroups = [
   {
@@ -228,6 +279,10 @@ function initNavigation() {
       documentContent.innerHTML = renderComponents(query);
       return;
     }
+    if (documents[activeIndex].type === "brandAudit") {
+      documentContent.innerHTML = renderBrandAudit(query);
+      return;
+    }
     renderMarkdown(activeMarkdown, query);
   });
 }
@@ -254,6 +309,12 @@ async function loadDocument(index) {
     return;
   }
 
+  if (doc.type === "brandAudit") {
+    activeMarkdown = "";
+    documentContent.innerHTML = renderBrandAudit();
+    return;
+  }
+
   try {
     const response = await fetch(`./${doc.file}`);
     if (!response.ok) throw new Error(`Unable to load ${doc.file}`);
@@ -262,6 +323,69 @@ async function loadDocument(index) {
   } catch (error) {
     documentContent.innerHTML = `<p>${escapeHtml(error.message)}</p>`;
   }
+}
+
+function renderBrandAudit(query = "") {
+  const normalizedQuery = query.toLowerCase();
+  const rows = normalizedQuery
+    ? brandAuditRows.filter(row => [row.element, row.rating, row.rationale, row.action].join(" ").toLowerCase().includes(normalizedQuery))
+    : brandAuditRows;
+  const total = brandAuditRows.reduce((sum, row) => sum + row.score, 0);
+  const max = brandAuditRows.length * 4;
+  const percent = Math.round((total / max) * 100);
+
+  return `
+    <section class="audit-summary">
+      <div>
+        <p class="eyebrow">6-Point Brand Audit</p>
+        <h2>Current Brand Readiness Score</h2>
+        <p>
+          This audit uses the workshop categories to evaluate the broader baking-products brand,
+          with the sourdough kit treated as the first flagship product.
+        </p>
+      </div>
+      <div class="audit-score">
+        <span>${percent}</span>
+        <strong>${total} / ${max} points</strong>
+      </div>
+    </section>
+    <div class="audit-table-wrap">
+      <table class="audit-table">
+        <thead>
+          <tr>
+            <th>Grading Element</th>
+            <th>Score</th>
+            <th>Current Assessment</th>
+            <th>Action Item</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${rows.map(renderAuditRow).join("") || `<tr><td colspan="4">No matching audit items found.</td></tr>`}
+        </tbody>
+      </table>
+    </div>
+    <section class="audit-actions">
+      <h2>Priority Action Items</h2>
+      <ol>
+        <li>Finalize the broad baking brand name and avoid a name that traps the brand in sourdough only.</li>
+        <li>Create a visual identity system that can stretch across bread, dough, pastry, decorating, gifting, and future kits.</li>
+        <li>Build authority assets before launch: quick-start guide, starter care guide, troubleshooting content, and short videos.</li>
+        <li>Turn the values into operating rules for product sourcing, packaging, claims, and customer support.</li>
+        <li>Create a copy bank so Amazon listing, packaging, inserts, and support all sound like the same brand.</li>
+      </ol>
+    </section>
+  `;
+}
+
+function renderAuditRow(row) {
+  return `
+    <tr>
+      <th scope="row">${row.element}</th>
+      <td><span class="audit-pill score-${row.score}">${row.score}/4</span><small>${row.rating}</small></td>
+      <td>${row.rationale}</td>
+      <td>${row.action}</td>
+    </tr>
+  `;
 }
 
 function renderComponents(query = "") {
