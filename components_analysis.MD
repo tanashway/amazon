@@ -277,7 +277,7 @@ Avoid adding these unless there is a clear margin and brand reason:
 - Too many low-quality accessories to inflate piece count.
 - Duplicate scrapers or tools with unclear use.
 - Live starter culture unless the team is ready for shelf-life, compliance, support, and refund complexity.
-- Electronic components unless they create real value and do not introduce battery/connectivity complaints.
+- Digital or electronic add-ons unless they create clear customer value and the team is ready to support them.
 
 ## Recommended Product Architecture
 
@@ -334,4 +334,3 @@ Do not build the offer around maximum piece count. Build it around the pieces th
 Starter care -> mixing -> shaping -> proofing -> scoring -> baking transfer -> cleaning -> gifting/sharing.
 
 The main kit must cover the first seven steps. Gifting and creative pieces should be used as add-ons that increase emotional appeal and perceived value.
-

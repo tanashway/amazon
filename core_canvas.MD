@@ -27,7 +27,7 @@ Current strategic direction:
 
 Important note:
 
-Some AI-generated competitor attributes from the latest DataDive brief appear unrelated to sourdough, such as battery life, sound quality, connectivity, and noisy operation. Ignore those unless the final product includes a real electronic/app component.
+The latest DataDive brief included several unrelated AI-generated attributes. Those have been treated as data noise and excluded from the strategic recommendations.
 
 ## What We Do
 
