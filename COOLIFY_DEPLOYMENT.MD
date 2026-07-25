@@ -6,13 +6,22 @@ Domain:
 
 - amazon.galaxyedge.org
 
-Server IP provided:
+Coolify dashboard:
 
-- 15.204.156.235
+- http://15.204.156.223:8000
+
+Active Coolify app:
+
+- Amazon Sourdough Brand Hub
+- UUID: f08sw4c80cwck8g0g4kk00gc
+- GitHub source: https://github.com/tanashway/amazon
+- Branch: main
+- Build pack: Dockerfile
+- Internal port: 80
 
 ## Current Status
 
-The static website has been created and is Docker-ready.
+The static website has been created, pushed to GitHub, and deployed in Coolify.
 
 Relevant files:
 
@@ -50,38 +59,48 @@ C:\Project\Amazon\SourDough
 
 The domain currently resolves through Cloudflare. That is fine, but Cloudflare must point `amazon.galaxyedge.org` to the Coolify server/origin correctly.
 
-If Cloudflare proxy is enabled and the origin app is not yet running, the domain may show a 520 error.
+Current verification:
+
+- The app responds correctly when the hostname is forced to origin `15.204.156.223`.
+- Public `https://amazon.galaxyedge.org` is returning Cloudflare 520.
+- The origin HTTPS certificate is currently Traefik's default self-signed certificate, not a trusted Let's Encrypt certificate.
+- `15.204.156.235` appears to serve a different nginx/Express site and is not the active Coolify dashboard used for this deployment.
+
+Likely DNS/Cloudflare action required:
+
+- Confirm the Cloudflare DNS origin for `amazon.galaxyedge.org` points to `15.204.156.223`, not `15.204.156.235`.
+- If Cloudflare proxy remains enabled, set SSL/TLS mode to a mode compatible with the origin certificate, or allow Coolify/Traefik to obtain a trusted Let's Encrypt certificate.
+- Temporarily switching the DNS record to DNS-only can help Coolify issue the certificate, then the Cloudflare proxy can be re-enabled.
 
 Checklist:
 
 - DNS record exists for `amazon.galaxyedge.org`.
-- DNS record points to `15.204.156.235` as the origin.
+- DNS record points to `15.204.156.223` as the origin.
 - Coolify has the domain assigned to this app.
 - The app is deployed and healthy.
 - SSL mode in Cloudflare is compatible with Coolify HTTPS.
 
-## Access Blocker
+## Deployment Status
 
-Deployment from this machine is currently blocked because the available SSH keys do not authenticate to the server.
+Deployment succeeded from GitHub through Coolify after forcing a rebuild.
 
-Tested users:
+Latest deployed commit:
 
-- root
-- ubuntu
-- debian
-- coolify
-- q_n
+```text
+a405ab2 Trigger Coolify rebuild
+```
 
-Result:
+Origin verification:
 
-- Permission denied.
+```text
+https://amazon.galaxyedge.org via 15.204.156.223 returns 200 OK.
+```
 
-To deploy directly, provide one of the following:
+Public-domain blocker:
 
-- Coolify UI access.
-- Coolify API token and endpoint.
-- SSH user/key that can access the server.
-- A connected Git repository that Coolify can pull from.
+```text
+Cloudflare currently returns 520 until DNS/SSL is corrected.
+```
 
 ## Recommended Coolify Flow
 
@@ -108,4 +127,3 @@ Confirm:
 - Search within document works.
 - "Open Markdown" links work.
 - Mobile layout is readable.
-
