@@ -346,7 +346,8 @@ function renderBrandAudit(query = "") {
       </div>
       <div class="audit-score">
         <span>${percent}</span>
-        <strong>${total} / ${max} points</strong>
+        <strong>${total} / ${max} raw points</strong>
+        <small>Final score out of 100</small>
       </div>
     </section>
     <div class="audit-table-wrap">

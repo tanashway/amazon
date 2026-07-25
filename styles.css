@@ -539,6 +539,13 @@ input {
   font-size: 0.95rem;
 }
 
+.audit-score small {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
 .audit-table-wrap {
   overflow-x: auto;
   margin-bottom: 22px;
