@@ -130,6 +130,7 @@ h1 {
 
 .hero > div,
 .quick-grid article,
+.visual-guide,
 .toolbar,
 .document-card {
   border: 1px solid var(--line);
@@ -198,6 +199,75 @@ label {
 .quick-grid p {
   margin: 8px 0 0;
   color: var(--muted);
+}
+
+.visual-guide {
+  max-width: 1180px;
+  margin: 0 auto 22px;
+  padding: 22px;
+}
+
+.visual-guide-header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
+  gap: 18px;
+  align-items: end;
+  margin-bottom: 18px;
+}
+
+.visual-guide-header h2 {
+  color: var(--sage-dark);
+  font-size: 1.75rem;
+}
+
+.visual-guide-header p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.visual-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.visual-grid figure {
+  display: flex;
+  min-width: 0;
+  overflow: hidden;
+  flex-direction: column;
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.visual-grid img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background: #fff;
+}
+
+.visual-grid figcaption {
+  display: grid;
+  gap: 4px;
+  flex: 1;
+  border-top: 1px solid var(--line);
+  background: #f8f7f2;
+  padding: 12px;
+}
+
+.visual-grid strong {
+  color: #162017;
+  font-size: 0.96rem;
+}
+
+.visual-grid span {
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.35;
 }
 
 .toolbar {
@@ -336,8 +406,13 @@ input {
 
   .hero,
   .quick-grid,
+  .visual-guide-header,
   .toolbar {
     grid-template-columns: 1fr;
+  }
+
+  .visual-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .hero > div:first-child,
@@ -352,5 +427,11 @@ input {
 
   .guide-image img {
     max-height: 360px;
+  }
+}
+
+@media (max-width: 560px) {
+  .visual-grid {
+    grid-template-columns: 1fr;
   }
 }
