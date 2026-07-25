@@ -63,54 +63,63 @@ const componentGroups = [
         name: "Starter Jar",
         role: "Create, feed, store, and monitor the living sourdough starter.",
         listing: "Show markings, feeding band, breathable cover, and fridge lid clearly.",
+        image: "Images/components/starter-jar.png",
         type: "jar"
       },
       {
         name: "Round Banneton Basket",
         role: "Supports round loaves during final proofing and creates spiral texture.",
         listing: "Position as a must-have shaping tool for classic boule loaves.",
+        image: "Images/components/round-banneton-basket.png",
         type: "roundBasket"
       },
       {
         name: "Oval Banneton Basket",
         role: "Supports longer batard-style loaves during final proofing.",
         listing: "Use it to explain why the kit supports more than one loaf shape.",
+        image: "Images/components/oval-banneton-basket.png",
         type: "ovalBasket"
       },
       {
         name: "Linen Liners",
         role: "Reduce sticking inside baskets and make cleanup easier for beginners.",
         listing: "Pair visually with both banneton baskets.",
+        image: "Images/components/linen-liners.png",
         type: "liners"
       },
       {
         name: "Dough Whisk",
         role: "Mixes wet, sticky sourdough dough with less effort than a spoon.",
         listing: "Show as the first mixing tool after starter care.",
+        image: "Images/components/dough-whisk.png",
         type: "whisk"
       },
       {
         name: "Bench Scraper",
         role: "Divides, lifts, shapes, and moves dough on the work surface.",
         listing: "Important for sticky dough handling and cleaner counters.",
+        image: "Images/components/bench-scraper.png",
         type: "benchScraper"
       },
       {
         name: "Bowl Scraper",
         role: "Scrapes dough from bowls and helps transfer dough without waste.",
         listing: "Explain as cleanup and dough-transfer support.",
+        image: "Images/components/bowl-scraper.png",
         type: "bowlScraper"
       },
       {
         name: "Bread Lame",
         role: "Scores the dough before baking so the loaf expands cleanly.",
         listing: "Mention blade caution and protective cover.",
+        image: "Images/components/bread-lame.png",
         type: "lame"
       },
       {
         name: "Silicone Bread Sling",
         role: "Helps lower dough into hot bakeware and lift bread after baking.",
         listing: "Make it feel like a safety and confidence feature, not filler.",
+        image: "Images/components/silicone-bread-sling.png",
         type: "sling"
       }
     ]
@@ -123,54 +132,63 @@ const componentGroups = [
         name: "Cleaning Brush",
         role: "Brushes dried flour and dough from banneton baskets.",
         listing: "Use in a cleanup image with liners and baskets.",
+        image: "Images/components/cleaning-brush.png",
         type: "cleaningBrush"
       },
       {
         name: "Flour Duster",
         role: "Applies a light, even layer of flour for proofing and decoration.",
         listing: "Useful in proofing and stencil images.",
+        image: "Images/components/flour-duster.png",
         type: "flourDuster"
       },
       {
         name: "Decorative Stencils",
         role: "Create flour patterns on finished loaves before baking.",
         listing: "Best tied to gifting, creativity, and family baking.",
+        image: "Images/components/bread-stencil.png",
         type: "stencils"
       },
       {
         name: "Silicone Spatula",
         role: "Helps stir starter, scrape jars, and handle sticky mixtures.",
         listing: "Show beside the starter jar for feeding support.",
+        image: "Images/components/silicone-spatula.png",
         type: "spatula"
       },
       {
         name: "Measuring Cups And Spoons",
         role: "Help customers portion ingredients consistently.",
         listing: "Position as beginner-friendly organization, not professional precision.",
+        image: "Images/components/measuring-cups-spoons.png",
         type: "measuring"
       },
       {
         name: "Recipe Book And Manual",
         role: "Guides beginners through starter care, dough prep, proofing, and baking.",
         listing: "This is a confidence builder and should appear in gift images.",
+        image: "Images/components/recipe-book-manual.png",
         type: "manual"
       },
       {
         name: "Bread Bags",
         role: "Make it easier to share, store, or gift finished loaves.",
         listing: "Use for the final gift/share image.",
+        image: "Images/components/bread-bags.png",
         type: "breadBags"
       },
       {
         name: "Cooling Rack",
         role: "Lets baked bread cool properly before slicing.",
         listing: "Nice value add if included, but not a core sourdough tool.",
+        image: "Images/components/cooling-rack.png",
         type: "coolingRack"
       },
       {
         name: "Gift Box",
         role: "Creates a premium unboxing and makes the kit gift-ready.",
         listing: "Important for holiday, birthday, and housewarming buyers.",
+        image: "Images/components/gift-box.png",
         type: "giftBox"
       }
     ]
@@ -277,7 +295,10 @@ function renderComponents(query = "") {
 function renderComponentCard(item) {
   return `
     <article class="component-card">
-      <div class="component-art" aria-hidden="true">${componentSvg(item.type)}</div>
+      <div class="component-art">
+        <img src="${item.image}" alt="${item.name}" loading="lazy" onerror="this.hidden=true; this.nextElementSibling.hidden=false;">
+        <div class="component-fallback" hidden aria-hidden="true">${componentSvg(item.type)}</div>
+      </div>
       <div class="component-copy">
         <h3>${item.name}</h3>
         <p>${item.role}</p>

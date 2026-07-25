@@ -452,6 +452,18 @@ input {
   background: #fffdf8;
 }
 
+.component-art img {
+  display: block;
+  width: 100%;
+  height: 210px;
+  object-fit: contain;
+  background: #fff;
+}
+
+.component-fallback {
+  width: 100%;
+}
+
 .component-art svg {
   display: block;
   width: 100%;
