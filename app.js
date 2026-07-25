@@ -125,6 +125,12 @@ function markdownToHtml(input) {
     } else if (/^### /.test(line)) {
       closeList();
       output.push(`<h3>${inline(line.replace(/^### /, ""))}</h3>`);
+    } else if (/^!\[[^\]]*\]\([^)]+\)$/.test(line.trim())) {
+      closeList();
+      const match = line.trim().match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+      const alt = match[1];
+      const src = match[2];
+      output.push(`<figure class="guide-image"><img src="${src}" alt="${alt}" loading="lazy"><figcaption>${alt}</figcaption></figure>`);
     } else if (/^- /.test(line)) {
       if (listType !== "ul") {
         closeList();

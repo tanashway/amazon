@@ -102,9 +102,46 @@ The kit should support this workflow.
 
 ## What Each Main Tool Does
 
+## Visual Kit Contents Reference
+
+Use these images as quick reference while writing the listing. They show the customer what the kit contains and help the team connect each tool to a real step in the sourdough process.
+
+![Complete sourdough kit contents with starter jar, banneton basket, tools, silicone sling, measuring tools, recipe book, user manual, and gift box](Images/3.png)
+
+Listing use:
+
+- Use this as the model for the main "complete kit" infographic.
+- Clearly label each included item.
+- Separate must-have workflow tools from small bonus accessories.
+
+![Mixing, shaping, cleaning, and scoring tools including dough whisk, scraper, brush, lame, silicone mat, and user manual](Images/1.png)
+
+Listing use:
+
+- Use this style for a "tools for every step" image.
+- Group the dough whisk, scrapers, brush, and lame as practical workflow tools.
+- Avoid making small accessories look like the main reason to buy.
+
+![Bread lame replacement blades and blade cover for sourdough scoring](Images/2.png)
+
+Listing use:
+
+- Show the blade cover and mention safe storage.
+- Explain that scoring helps the loaf expand and creates artisan-style designs.
+- Include blade caution in the listing and instructions.
+
+![Decorative sourdough bread stencils for flour patterns](Images/stencils.png)
+
+Listing use:
+
+- Present stencils as a creative add-on, not a core baking requirement.
+- Tie them to gifting, family baking, and decorative finished loaves.
+
 ### Starter Jar
 
 Used to create, feed, store, and monitor the sourdough starter.
+
+![Starter jar shown as part of the complete kit with measurement marks, feeding tracker band, cloth cover, and spatula](Images/3.png)
 
 Listing angle:
 
@@ -114,6 +151,8 @@ Listing angle:
 
 Used to mix wet, sticky dough more easily than a regular spoon.
 
+![Dough whisk and nearby preparation tools for mixing sticky sourdough dough](Images/1.png)
+
 Listing angle:
 
 "Mix thick sourdough dough with less effort."
@@ -122,6 +161,8 @@ Listing angle:
 
 Used to divide, shape, lift, and move dough on the counter.
 
+![Bench scraper and silicone preparation tools used for shaping and moving dough](Images/1.png)
+
 Listing angle:
 
 "Handle sticky dough while keeping your work surface cleaner."
@@ -129,6 +170,8 @@ Listing angle:
 ### Bowl Scraper
 
 Used to scrape dough from mixing bowls and help fold or transfer dough.
+
+![Flexible scraper shown with other dough handling tools](Images/1.png)
 
 Listing angle:
 
@@ -140,6 +183,8 @@ Used for the final proof. It supports the dough's shape while it rises and can l
 
 Round baskets make round loaves. Oval baskets make longer oval loaves.
 
+![Banneton proofing basket with linen liner and finished sourdough loaf](Images/3.png)
+
 Listing angle:
 
 "Shape beautiful round and oval artisan-style loaves."
@@ -147,6 +192,8 @@ Listing angle:
 ### Linen Liners
 
 Placed inside the banneton basket to reduce sticking and make cleanup easier.
+
+![Linen liner inside banneton basket supporting a finished artisan loaf](Images/3.png)
 
 Listing angle:
 
@@ -157,6 +204,8 @@ Listing angle:
 A sharp scoring tool used to cut the top of the dough before baking.
 
 Scoring controls where the dough expands in the oven and creates decorative patterns.
+
+![Bread lame, replacement blades, and protective blade cover for scoring sourdough](Images/2.png)
 
 Listing angle:
 
@@ -170,6 +219,8 @@ Always mention blade caution and include a blade cover.
 
 Used to lower dough into hot bakeware and lift bread out after baking.
 
+![Silicone bread sling included in the kit for safer dough transfer](Images/3.png)
+
 Listing angle:
 
 "Transfer dough more confidently while keeping hands farther from hot bakeware."
@@ -177,6 +228,8 @@ Listing angle:
 ### Cleaning Brush
 
 Used to brush dried flour and dough from banneton baskets.
+
+![Cleaning brush shown with the kit tools for basket care and cleanup](Images/1.png)
 
 Listing angle:
 
@@ -186,6 +239,8 @@ Listing angle:
 
 Used to lightly dust flour on baskets, dough, or stencils.
 
+![Flour duster shown in the complete kit for even flour application](Images/3.png)
+
 Listing angle:
 
 "Add even flour dusting for proofing and decoration."
@@ -194,6 +249,8 @@ Listing angle:
 
 Used with flour to create decorative patterns on the loaf before baking.
 
+![Decorative stencils used to create flour designs on sourdough loaves](Images/stencils.png)
+
 Listing angle:
 
 "Create gift-worthy decorative loaves."
@@ -201,6 +258,8 @@ Listing angle:
 ### Bread Bags
 
 Used to share or gift finished loaves.
+
+![Gift-ready sourdough kit packaging and finished loaf presentation](Images/3.png)
 
 Listing angle:
 
@@ -328,4 +387,3 @@ Do not just say "complete kit." Show why it is complete by connecting each item 
 The strongest message is:
 
 This kit guides the customer from starter care to a beautiful finished loaf.
-
