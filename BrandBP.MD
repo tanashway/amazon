@@ -14,6 +14,13 @@ The workshop blueprint is organized around:
 - Brand personality
 - Style guide
 
+The full Elite workshop frames the work in four parts:
+
+1. Clarify brand positioning.
+2. Identify authority amplifiers.
+3. Codify brand voice.
+4. Audit and optimize the brand.
+
 Important strategic correction:
 
 The brand should not be built only around one sourdough kit. The sourdough kit is the first product and an important launch vehicle, but the brand must be broad enough to support future baking products, kitchen tools, baking kits, accessories, guides, and giftable baking experiences.
@@ -71,9 +78,29 @@ Our first product is a complete sourdough baking kit that helps customers move f
 
 To become a trusted home baking brand for people who want to make beautiful, meaningful baked goods without feeling intimidated by the process.
 
+Workshop definition:
+
+Vision is the brand's core belief or point of view about the world and the company's place in it. It is idealistic, aspirational, and has no fixed time horizon.
+
+Vision type:
+
+Customer-centric with a light category/industry point of view. The brand exists for home bakers first, while also pushing the baking category toward clearer, more guided tools and kits.
+
 ### Mission
 
 To design baking products that give home bakers the confidence, tools, and guidance to create and share better homemade bread and baked goods.
+
+Workshop definition:
+
+Mission is a measurable and achievable milestone that bridges who the company is today and who it wants to become. The workshop suggests a 2 to 5 year horizon.
+
+Recommended 5-year mission:
+
+Become a recognized Amazon-first home baking brand with a focused line of guided baking kits and tools that customers trust for clarity, quality, and giftable presentation.
+
+Mission test:
+
+Because we believe home baking should feel learnable and rewarding, we therefore must build products that guide customers through the process instead of only selling isolated tools.
 
 ### Core Values
 
@@ -100,6 +127,13 @@ Materials, packaging, and instructions should reduce friction, prevent confusion
 **Share-Worthy Joy**
 
 Baking is not only about food. It is about pride, care, creativity, family, and sharing.
+
+Workshop value filter:
+
+- Core values: clarity, useful completeness, honest confidence, thoughtful quality.
+- Aspirational values: stronger community, better educational content, more polished product systems.
+- Permission-to-play values: food contact safety, accurate descriptions, dependable packaging, responsive support.
+- Values to avoid becoming accidental: chasing high piece counts, generic farmhouse style, overpromising results.
 
 ## Who We Serve
 
@@ -377,6 +411,8 @@ For the sourdough launch:
 
 ## Brand Personality
 
+The Elite workshop says a brand is not a logo; it functions more like a character. The brand must be human enough to scale without becoming faceless, but consistent enough that copy, packaging, content, and support all sound like the same company.
+
 ### Primary Character Trait
 
 Warm, capable baking mentor.
@@ -400,6 +436,36 @@ Practical, thoughtful, and quietly premium.
 ### Human Texture
 
 The brand can acknowledge that baking is part science, part practice, and part personal ritual. This honesty makes the brand more trustworthy.
+
+### Character Diamond
+
+Primary trait:
+
+Warm, capable baking mentor.
+
+Non-negotiable:
+
+Honest guidance over hype.
+
+Secondary trait:
+
+Practical, thoughtful, and quietly premium.
+
+Quirk, mask, or flaw:
+
+The brand is a little obsessive about making every tool and step make sense. This should show up as labeled parts, workflow diagrams, checklists, and simple care instructions.
+
+Brand model:
+
+The brand should feel like an experienced home baker who is organized, warm, practical, and confident without being performative or overly precious.
+
+Influence cues:
+
+- Modern home baking.
+- Hands-on craft.
+- Useful kitchen organization.
+- Calm teaching.
+- Shareable family and gift moments.
 
 ## Voice Guide
 
