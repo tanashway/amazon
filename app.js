@@ -53,6 +53,7 @@ const rawLink = document.querySelector("#rawLink");
 
 let activeIndex = 0;
 let activeMarkdown = "";
+const assetVersion = "68da2d9-components";
 
 const componentGroups = [
   {
@@ -157,6 +158,13 @@ const componentGroups = [
         type: "spatula"
       },
       {
+        name: "Silicone Cooking Brush",
+        role: "Brushes oil, water, or wash evenly over dough when a recipe calls for it.",
+        listing: "Show as a small convenience add-on, separate from the dry banneton cleaning brush.",
+        image: "Images/components/sillicon_brush.png",
+        type: "cookingBrush"
+      },
+      {
         name: "Measuring Cups And Spoons",
         role: "Help customers portion ingredients consistently.",
         listing: "Position as beginner-friendly organization, not professional precision.",
@@ -167,7 +175,7 @@ const componentGroups = [
         name: "Recipe Book And Manual",
         role: "Guides beginners through starter care, dough prep, proofing, and baking.",
         listing: "This is a confidence builder and should appear in gift images.",
-        image: "Images/components/recipe-book-manual.png",
+        image: "Images/3.png",
         type: "manual"
       },
       {
@@ -188,7 +196,7 @@ const componentGroups = [
         name: "Gift Box",
         role: "Creates a premium unboxing and makes the kit gift-ready.",
         listing: "Important for holiday, birthday, and housewarming buyers.",
-        image: "Images/components/gift-box.png",
+        image: "Images/3.png",
         type: "giftBox"
       }
     ]
@@ -296,7 +304,7 @@ function renderComponentCard(item) {
   return `
     <article class="component-card">
       <div class="component-art">
-        <img src="${item.image}" alt="${item.name}" loading="lazy" onerror="this.hidden=true; this.nextElementSibling.hidden=false;">
+        <img src="${item.image}?v=${assetVersion}" alt="${item.name}" loading="lazy" onerror="this.hidden=true; this.nextElementSibling.hidden=false;">
         <div class="component-fallback" hidden aria-hidden="true">${componentSvg(item.type)}</div>
       </div>
       <div class="component-copy">
@@ -324,6 +332,7 @@ function componentSvg(type) {
     flourDuster: `<svg ${common}><rect width="220" height="160" fill="#fbfaf6"/><circle cx="102" cy="82" r="36" fill="#d8dde0" stroke="#344b39" stroke-width="4"/><path d="M134 70l42-22M137 84l48 2M130 99l40 27" stroke="#a95e42" stroke-width="5" stroke-linecap="round"/><circle cx="92" cy="72" r="4" fill="#fff"/><circle cx="110" cy="84" r="4" fill="#fff"/><circle cx="94" cy="99" r="4" fill="#fff"/></svg>`,
     stencils: `<svg ${common}><rect width="220" height="160" fill="#fbfaf6"/><rect x="44" y="34" width="132" height="92" rx="8" fill="#e8ece8" stroke="#344b39" stroke-width="4"/><path d="M78 86c20-46 44-46 64 0M82 87c18 30 38 30 56 0" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/><path d="M110 46v74M74 78h72" stroke="#d2a756" stroke-width="3"/></svg>`,
     spatula: `<svg ${common}><rect width="220" height="160" fill="#fbfaf6"/><path d="M105 36c20 0 34 12 34 30 0 14-9 24-22 28v45h-24V94C80 90 71 80 71 66c0-18 14-30 34-30z" fill="#a95e42" stroke="#344b39" stroke-width="4"/><path d="M105 96v42" stroke="#f6d9b5" stroke-width="5"/></svg>`,
+    cookingBrush: `<svg ${common}><rect width="220" height="160" fill="#fbfaf6"/><rect x="100" y="35" width="20" height="74" rx="10" fill="#d2a756" stroke="#344b39" stroke-width="3"/><path d="M82 108h56l-10 28H92z" fill="#d2a756" stroke="#344b39" stroke-width="4"/><path d="M92 112v25M104 112v25M116 112v25M128 112v25" stroke="#a95e42" stroke-width="3"/></svg>`,
     measuring: `<svg ${common}><rect width="220" height="160" fill="#fbfaf6"/><circle cx="70" cy="78" r="24" fill="#d2a756" stroke="#344b39" stroke-width="4"/><circle cx="116" cy="88" r="18" fill="#d2a756" stroke="#344b39" stroke-width="4"/><circle cx="154" cy="98" r="14" fill="#d2a756" stroke="#344b39" stroke-width="4"/><path d="M88 90l70 38M130 100l36 28M165 107l20 16" stroke="#344b39" stroke-width="5" stroke-linecap="round"/></svg>`,
     manual: `<svg ${common}><rect width="220" height="160" fill="#fbfaf6"/><path d="M58 32h58c13 0 24 11 24 24v74H82c-13 0-24-11-24-24z" fill="#fff" stroke="#344b39" stroke-width="4"/><path d="M140 56c0-13 11-24 24-24h18v98h-42z" fill="#f4f1e9" stroke="#344b39" stroke-width="4"/><path d="M78 62h38M78 82h46M78 102h34" stroke="#a95e42" stroke-width="4"/><path d="M154 62h18M154 82h18" stroke="#d2a756" stroke-width="4"/></svg>`,
     breadBags: `<svg ${common}><rect width="220" height="160" fill="#fbfaf6"/><path d="M66 38h86l12 92H54z" fill="#f1dcc0" stroke="#344b39" stroke-width="4"/><path d="M74 50h70M78 74h62M82 98h54" stroke="#a95e42" stroke-width="4"/><path d="M82 38c0-18 56-18 56 0" fill="none" stroke="#d2a756" stroke-width="5"/></svg>`,

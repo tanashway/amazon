@@ -21,13 +21,14 @@ The Components tab in the web app will automatically use them.
 - `flour-duster.png`
 - `bread-stencil.png`
 - `silicone-spatula.png`
+- `sillicon_brush.png`
 - `measuring-cups-spoons.png`
-- `recipe-book-manual.png`
+- `recipe-book-manual.png` if a separate manual image is added later. The app currently uses `../3.png`.
 - `bread-bags.png`
 - `cooling-rack.png`
-- `gift-box.png`
+- `gift-box.png` if a separate gift box image is added later. The app currently uses `../3.png`.
 
-## Images Already Provided In Chat But Need File Export
+## Current Image Mapping
 
 - Starter jar with cloth cover, tracker band, thermometer strip, red silicone base, and spatula -> `starter-jar.png`
 - Oval basket with bread -> `oval-banneton-basket.png`
@@ -37,7 +38,7 @@ The Components tab in the web app will automatically use them.
 - Dough whisk card -> `dough-whisk.png`
 - Clean brush card -> `cleaning-brush.png`
 - Bread lame card -> `bread-lame.png`
-- Cooking brush card -> optional extra, currently maps best to `cleaning-brush.png` unless we add a separate component.
+- Cooking brush card -> `sillicon_brush.png`
 - Proofing basket image -> `round-banneton-basket.png`
 - Silicone spatula image -> `silicone-spatula.png`
 - Thermometer strip -> included visually in `starter-jar.png`, or add later as a separate component if needed.
