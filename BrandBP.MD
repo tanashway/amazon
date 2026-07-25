@@ -1,467 +1,607 @@
 # Brand Blueprint: Premium Sourdough Bread Baking Kit
 
-## Source Note
+## Workshop Source
 
-This blueprint was first based on competitor-review insights from approximately 8 months ago, then updated with the latest user-provided product brief. The latest brief confirms the core strategy: make the kit complete, beginner-friendly, durable, gift-ready, easy to clean, and supported beyond the box.
+This brand blueprint follows the DigitalMarketer workshop structure from `Architect a Branding Blueprint that Builds Authority`.
 
-Important data-quality note: the latest AI brief includes several attributes that appear unrelated to a sourdough kit, such as battery life, sound quality, noisy operation, connectivity issues, and poor battery life. These should be ignored unless the final product includes an electronic or app-connected component where those concerns become relevant.
+The workshop blueprint is organized around:
 
-## What Changed In The Latest Brief
+- What We Do
+- Why We Do It
+- Who We Serve
+- Who We Are
+- Authority Amplifiers
+- Brand personality
+- Style guide
 
-Compared with the earlier baseline, the latest brief keeps the same brand opportunity but adds several stronger execution priorities:
+Use this file as the primary brand handoff for naming, packaging, Amazon listing copy, A+ content, inserts, image briefs, and future product expansion.
 
-- Make durability and build quality more visible in product design and messaging.
-- Treat comfort, lightweight handling, easy setup, and easy cleaning as part of the premium experience.
-- Consider app, video, QR-code, expert support, or community access as a possible differentiator.
-- Make the starter jar more distinctive with measurements, easy handling, funnel-style opening, and silicone cover/base functionality if feasible.
-- Strengthen gift-ready presentation with premium packaging, message card, and recipe/guide materials.
-- Protect the strategy from irrelevant AI noise around batteries, sound, and connectivity unless those features truly exist.
+## Brand Working Name
 
-## Brand Opportunity
+Temporary project name:
 
-Most sourdough kits compete by showing many tools in a box. That makes the category feel crowded and interchangeable.
+Premium Sourdough Bread Baking Kit
 
-The brand should own a more specific promise: making sourdough approachable, complete, and giftable without sacrificing quality. The customer should feel that the kit was designed by people who understand the beginner's uncertainty and the artisan baker's standards.
+The final brand name is not selected yet. The name should communicate beginner confidence, artisan bread, warmth, and giftability without sounding generic.
 
-The latest research also suggests a stronger support opportunity: customers may value printed guidance, videos, app support, or access to a baking community. This can become a meaningful brand advantage if the team can execute it well.
+## What We Do
 
-## Brand Role
+We help home bakers start making beautiful sourdough bread with a complete, beginner-friendly kit that organizes the tools for starter care, mixing, shaping, proofing, scoring, baking transfer, decorating, cleaning, and sharing.
 
-The brand is a patient guide into sourdough baking.
+Plain-language version:
 
-It should help customers feel capable, prepared, and excited. It should not feel overly technical, intimidating, or generic. It should make the customer think: "This is the kit that will actually help me start."
+We make sourdough easier to start, easier to understand, and more beautiful to share.
 
-## Brand Essence
+Amazon-facing version:
 
-Approachable artisan baking.
+A complete sourdough baking kit for beginners and home bakers, including starter-care tools, round and oval proofing baskets, dough tools, scoring tools, decorating accessories, and clear guidance for making artisan-style bread at home.
+
+## Why We Do It
+
+### Vision
+
+To make homemade sourdough feel approachable, rewarding, and shareable for everyday home bakers.
+
+### Mission
+
+To give beginner and gift-driven home bakers a complete, organized, trustworthy sourdough kit that reduces confusion and supports every major step from starter care to finished loaf.
+
+### Core Values
+
+**Clarity**
+
+Every product, insert, image, and claim should help the customer understand what to do next.
+
+**Useful Completeness**
+
+The kit should feel complete because every item has a job, not because the box is inflated with filler.
+
+**Honest Confidence**
+
+We help customers feel capable without promising perfect bread or instant mastery.
+
+**Craft**
+
+The brand should respect the tactile, traditional pleasure of bread making.
+
+**Quality**
+
+Materials, packaging, and instructions should reduce the main category complaints: missing items, damaged glass, flimsy tools, unclear contents, splintering baskets, and poor instructions.
+
+**Gift-Worthy Care**
+
+The product should feel thoughtful, organized, and ready to give.
+
+## Who We Serve
+
+### Ideal Target Audience 1: Beginner Sourdough Starter
+
+Description:
+
+A home baker who wants to try sourdough but feels unsure where to start. They are inspired by beautiful loaves, family cooking, wellness, social media, or the desire to make better homemade bread.
+
+Demographics:
+
+- Adult home cooks and beginner bakers.
+- Primarily Amazon shoppers in the United States.
+- Likely interested in homemaking, wellness, cooking, family activities, or creative hobbies.
+- Buys kitchen tools online and values convenience.
+- May be shopping for themselves or their household.
+
+Frustrations and fears:
+
+- "I do not know which tools I actually need."
+- "Starter care seems confusing."
+- "I am worried the dough will be sticky and messy."
+- "I do not want my first loaf to look bad."
+- "I am afraid the jar will break or the baskets will be cheap."
+- "I do not want a kit that arrives with missing parts."
+- "I do not want to waste ingredients and give up."
+
+Wants and aspirations:
+
+- Bake a beautiful loaf at home.
+- Feel confident starting sourdough.
+- Understand the process in simple steps.
+- Make bread that looks artisan and impressive.
+- Create wholesome bread for self, family, or friends.
+- Have tools that feel organized and easy to identify.
+
+Key purchasing drivers:
+
+- Complete kit in one purchase.
+- Clear labeled contents.
+- Beginner-friendly guide.
+- Starter jar with markings and feeding support.
+- Round and oval proofing baskets.
+- Real product photos for each component.
+- Good value without feeling cheap.
+- Positive review proof around quality and completeness.
+
+### Ideal Target Audience 2: Gift Buyer
+
+Description:
+
+A shopper looking for a thoughtful gift for someone who enjoys baking, homemaking, cooking, or creative food hobbies.
+
+Demographics:
+
+- Holiday, birthday, housewarming, wedding, Mother's Day, Father's Day, and hobby-gift shoppers.
+- May know little about sourdough personally.
+- Needs the product page to explain the kit quickly and visually.
+
+Frustrations and fears:
+
+- Does not want the gift to look cheap.
+- Does not know if the kit is complete.
+- Does not want the recipient to feel confused after opening it.
+- Does not want to buy a box of random accessories.
+
+Wants and aspirations:
+
+- Give a gift that feels personal, useful, and premium.
+- Make the recipient excited to start baking.
+- Choose something that looks complete and thoughtful.
+
+Key purchasing drivers:
+
+- Gift-ready packaging.
+- Recipe book/manual.
+- Full-kit visual.
+- Bread bags and decorative stencils.
+- Finished loaf imagery.
+- Premium but accessible price.
+
+### Ideal Target Audience 3: Creative / Artisan Home Baker
+
+Description:
+
+An intermediate home baker who wants better tools, attractive loaves, and more creative control.
+
+Frustrations and fears:
+
+- Cheap baskets or flimsy tools.
+- Dull or unsafe lame.
+- Boring, generic kit presentation.
+- Add-ons that do not improve the baking experience.
+
+Wants and aspirations:
+
+- Shape round and oval loaves.
+- Score cleaner patterns.
+- Use stencils for decorative bread.
+- Make loaves worth photographing and sharing.
+
+Key purchasing drivers:
+
+- Basket quality and shape options.
+- Bread lame and blade cover.
+- Flour duster and stencils.
+- Silicone sling.
+- Durable dough scraper and whisk.
+
+## Before And After
+
+### Customer Before State
+
+The customer is curious but hesitant.
+
+They see sourdough as:
+
+- Confusing.
+- Messy.
+- Time-consuming.
+- Tool-heavy.
+- Easy to get wrong.
+
+They worry they will buy the wrong items, misunderstand starter feeding, or fail on the first loaf.
+
+### Customer After State
+
+The customer sees a clear path:
+
+Starter care -> mixing -> shaping -> proofing -> scoring -> baking transfer -> cooling -> sharing.
+
+They feel equipped, guided, creative, and proud.
+
+## Who We Are
+
+### Brand Role
+
+Patient artisan guide.
+
+The brand should feel like a calm, capable baker standing beside the customer and saying, "Here is the next step."
+
+### Step-By-Step Plan
+
+The brand should teach the process in this order:
+
+1. Grow and maintain the starter.
+2. Mix the dough.
+3. Shape the dough.
+4. Proof in round or oval baskets.
+5. Score and decorate.
+6. Transfer into hot bakeware.
+7. Bake, cool, bag, and share.
+
+This sequence should inform:
+
+- Listing images.
+- A+ content.
+- Packaging panels.
+- Insert/manual.
+- QR-code learning page.
+- Brand video scripts.
+
+### Absolutes We Maintain
+
+- Show exactly what is included.
+- Explain what each component does.
+- Separate core workflow tools from add-ons.
+- Never imply live starter is included unless it is.
+- Never promise perfect bread.
+- Include blade safety language.
+- Validate all material, food-safe, chemical-free, and durability claims.
+- Make the kit feel organized, not overwhelming.
+
+### Specific And Tactical Q&A
+
+**What does the kit help customers do?**
+
+It helps them move through the sourdough process with the right tools for each step.
+
+**Why is this more than a bundle?**
+
+Each component is connected to a workflow: starter care, mixing, shaping, proofing, scoring, decorating, transfer, cleaning, and sharing.
+
+**What is the hero component?**
+
+The complete system is the hero, but the starter jar and round + oval banneton baskets should be treated as major visual anchors.
+
+**What must the listing clarify?**
+
+Whether live starter, ingredients, Dutch oven/bakeware, and app/community access are included or not.
+
+**What should the brand avoid?**
+
+Overpromising, vague "professional" claims, unsupported material claims, and visual clutter.
+
+### Rites And Rituals
+
+These recurring actions make the brand feel memorable:
+
+- Feed the starter and move the day tracker band.
+- Watch starter rise against jar markings.
+- Dust the basket.
+- Shape and rest the dough.
+- Turn dough out of the liner.
+- Score one confident expansion cut.
+- Add a stencil pattern for a special loaf.
+- Let the loaf cool.
+- Bag one loaf to share.
+
+### Core Beliefs
+
+- Sourdough is learnable.
+- Beginners deserve tools that make sense.
+- Beautiful bread should feel possible at home.
+- Good tools reduce friction.
+- Clear instructions build confidence.
+- Homemade bread is an act of care.
+- Giftable products should feel useful after the unboxing moment.
+
+## Authority Amplifiers
+
+Use these to build authority and trust:
+
+- Visual component guide in the web app.
+- Labeled Amazon listing images.
+- Step-by-step sourdough workflow.
+- Starter-care education.
+- Troubleshooting guide for beginner mistakes.
+- Basket care and cleaning instructions.
+- Safety guidance for the bread lame.
+- Inventory checklist in the box.
+- Quality-control language backed by operations.
+- Real product photography for every component.
+- QR-code video lessons if the team can create and maintain them.
+- Review-driven product improvements: safer packaging, clearer contents, stronger jar protection.
+
+## Brand Personality
+
+### Primary Character Trait
+
+Patient, capable guide.
+
+### Brand Archetype
+
+Mentor-maker.
+
+The brand teaches and equips the customer while keeping the craft warm and hands-on.
+
+### Non-Negotiable
+
+Honest guidance over hype.
+
+Do not use claims that make sourdough sound instant, guaranteed, or effortless. Make it feel approachable, not fake-easy.
+
+### Secondary Character Trait
+
+Warm, practical, and quietly premium.
+
+### Quirk / Human Texture
+
+The brand acknowledges that sourdough is alive and slightly imperfect. Every kitchen, starter, and loaf behaves differently. That honesty makes the brand more trustworthy.
+
+## Voice Guide
+
+### Voice Attributes
+
+- Clear.
+- Warm.
+- Reassuring.
+- Practical.
+- Confident.
+- Premium but not snobby.
+- Artisan but not intimidating.
+
+### Say This
+
+- "Start your sourdough journey with tools for every step."
+- "Track starter growth with clear jar markings."
+- "Shape round and oval artisan-style loaves."
+- "Score, decorate, bake, and share."
+- "Designed to help beginners reduce guesswork."
+- "A complete kit that makes each step easier to understand."
+
+### Do Not Say This
+
+- "No-fail sourdough."
+- "Perfect bread guaranteed."
+- "Professional bakery results every time."
+- "Mold-proof" unless validated.
+- "Chemical-free" unless validated.
+- "Starter included" unless live starter culture is actually included.
+- "App support" unless a real app/support experience exists.
+
+## Style Guide Direction
+
+### Visual Feel
+
+Warm, clean, tactile, and credible.
+
+The brand should look like modern home baking, not a dusty farmhouse cliche.
+
+### Recommended Visual Cues
+
+- Bright kitchen photography.
+- Real product images.
+- Warm bread crust tones.
+- Natural rattan texture.
+- Linen, flour, glass, and dough textures.
+- Clear labels for components.
+- Hands using the tools.
+- Finished bread that feels achievable.
+
+### Avoid
+
+- All-beige sameness.
+- Dark moody photography that hides the product.
+- Generic wheat-logo branding.
+- Overly rustic distressing.
+- Overly feminine cottage styling.
+- Busy collages with no hierarchy.
+- Add-ons visually overpowering the core kit.
+
+### Color Territories
+
+Explore palettes such as:
+
+- Warm white, sage, clay, charcoal, and honey.
+- Porcelain, olive, wheat, graphite, and clean white.
+- Oat, deep green, copper, linen, and black.
+- Soft cream, muted teal, terracotta, and warm gray.
+
+The final palette must work on Amazon thumbnails, packaging, inserts, and web assets.
 
 ## Brand Promise
 
 We make sourdough baking easier to begin, more beautiful to practice, and more rewarding to share.
 
-## Brand Mission
+## Core Brand Message
 
-To help home bakers create beautiful, wholesome sourdough bread with thoughtfully designed tools, clear guidance, and natural materials.
+Beautiful sourdough starts with a clear path and the right tools.
 
-## Brand Vision
+## Message Hierarchy
 
-To become the trusted starting point for people who want to bring artisan bread baking into their homes.
+### Primary Message
 
-## Brand Values
+Make beautiful sourdough feel approachable from day one.
 
-### Confidence
+### Secondary Messages
 
-The customer should never feel lost. Every tool, instruction, and packaging decision should reduce friction.
+- Complete tool system from starter care to finished loaf.
+- Round and oval baskets for two classic loaf shapes.
+- Starter jar helps track growth and feeding.
+- Dough tools help handle sticky dough.
+- Scoring and stencil tools make loaves more beautiful.
+- Bread bags and gift-ready packaging support sharing.
+- Beginner guidance reduces guesswork.
 
-### Craft
+### Emotional Payoff
 
-The brand should respect the tradition and tactile pleasure of bread making.
-
-### Honesty
-
-The listing and packaging must clearly state what is included, what is not included, and what the product does.
-
-### Natural Quality
-
-Materials should feel safe, durable, and appropriate for food preparation.
-
-### Thoughtfulness
-
-The kit should feel organized, giftable, and intentionally assembled.
-
-## Brand Personality
-
-- Warm.
-- Capable.
-- Calm.
-- Practical.
-- Encouraging.
-- Premium but not pretentious.
-- Artisan but not intimidating.
-- Natural but not overly rustic.
-- Helpful beyond the purchase.
-
-## Brand Voice
-
-The voice should sound like a knowledgeable baking friend: clear, reassuring, and grounded.
-
-Use language that makes sourdough feel achievable. Avoid elite baker language unless it is explained simply.
-
-### Voice Examples
-
-Use:
-
-- "Begin with confidence."
-- "Shape, proof, score, and bake beautiful sourdough at home."
-- "A complete kit for your first loaf and many after."
-- "Clear tools, simple guidance, better bread days."
-- "Printed guidance, video help, and starter-care support in one place."
-- "Durable tools designed for many loaves, not just one first try."
-
-Avoid:
-
-- "Master bakery-grade fermentation like a professional."
-- "The ultimate revolutionary sourdough ecosystem."
-- "Perfect bread guaranteed."
-- "Ancient rustic vibes for your artisanal lifestyle."
-- "App-enabled baking system" unless a real app exists and is maintained.
-
-## Target Audience
-
-### Primary Audience
-
-Beginner and intermediate home bakers in the United States who are interested in sourdough but need a complete, guided setup.
-
-### Secondary Audience
-
-Gift buyers looking for a thoughtful cooking or baking gift.
-
-### Tertiary Audience
-
-Eco-conscious, health-conscious, and creative bakers who care about materials, ingredient control, and bread presentation.
-
-### Additional Audience
-
-Tech-savvy bakers who like app guidance, video tutorials, digital schedules, and online community support. This should remain a secondary audience unless the digital experience becomes a real product feature.
-
-## Customer Emotions To Create
-
-Before purchase:
-
-- Curious.
-- Reassured.
-- Excited.
-- Confident that this kit is complete.
-- Comfortable giving it as a gift.
-
-During unboxing:
-
-- "This feels organized."
-- "This looks better than I expected."
-- "I know what each piece is for."
-
-During use:
-
-- Guided.
-- Creative.
-- Capable.
-- Proud.
-
-After baking:
-
-- Proud enough to share photos.
-- Motivated to bake again.
-- Likely to recommend or gift the kit.
-
-## Core Brand Differentiators
-
-### 1. Beginner-First Completeness
-
-The kit should include the tools a new baker expects and explain why each tool matters.
-
-### 2. Upgraded Starter Care
-
-The sourdough starter jar can become a hero feature if it includes useful improvements such as volume markings, feeding reminder band, durable glass, easy handling, funnel-style opening if feasible, silicone base or silicone cover that doubles as a non-slip base, breathable cover, and clear care instructions.
-
-### 3. Gift-Ready Presentation
-
-Packaging should feel appropriate for holidays, birthdays, housewarming, Mother's Day, Father's Day, weddings, and new-home gifts.
-
-### 4. Quality-Control Trust
-
-The brand can stand out by addressing common competitor complaints: missing items, broken jars, damaged pieces, splintered baskets, and misleading descriptions.
-
-### 5. Natural Material Confidence
-
-Rattan baskets, chemical-free liners, and food-safe components should be shown and explained clearly.
-
-### 6. Support Beyond The Box
-
-Printed instructions are table stakes. Video tutorials, QR-code guidance, app support, expert tips, or community access can make the product feel more premium and reduce beginner frustration.
-
-### 7. Value Without Cheapness
-
-The kit should feel competitively priced, but the brand should defend value through durability, completeness, support, and presentation rather than racing to the lowest price.
+- "I can actually do this."
+- "My bread looks beautiful."
+- "This feels like a thoughtful gift."
+- "I know what every tool is for."
+- "I want to bake again."
 
 ## Product Experience Principles
 
-### Complete Means Clearly Complete
+### Complete Means Understandable
 
-The kit should include a visible item checklist inside the box. The Amazon listing should include a clear visual "what's included" graphic.
+A complete kit must be visually labeled and organized.
 
 ### Beginner-Friendly Means Guided
 
-Include a printed quick-start guide and a more detailed manual, QR-code resource, video tutorial path, app, or online community. The first bake should feel possible, not overwhelming.
+The customer needs instructions, not just tools.
 
 ### Premium Means Thoughtful
 
-Premium does not only mean more tools. It means better organization, stronger packaging, better materials, fewer defects, clearer instructions, and a calmer customer experience.
+Premium comes from durability, clarity, packaging, safety, and ease of use.
 
 ### Giftable Means Presentable
 
-The box should look intentional without needing extra wrapping. The inner layout should be neat enough for unboxing photos.
+The outer box and inner layout should feel ready to give.
 
 ### Durable Means Trustworthy
 
-The latest brief places high importance on durability and build quality. Tools should feel sturdy, comfortable, and useful over repeated bakes.
+The product must avoid common competitor issues: broken glass, missing parts, rough baskets, weak tools, and unclear instructions.
 
-### Simple Means Low Friction
+## Product Feature Priorities
 
-Avoid complicated setup, unnecessary assembly, and unclear maintenance. Every item should be easy to identify, use, clean, and store.
+### Core Kit Items
 
-## Recommended Product Feature Set
-
-Core items:
-
-- 9-inch round banneton basket.
-- 10-inch oval banneton basket.
-- Linen liners for each basket.
+- Starter jar with markings.
+- Feeding day tracker band.
+- Cloth cover.
+- Aluminum lid or storage lid.
+- Thermometer strip if final specs confirm.
+- Silicone spatula.
+- Round banneton basket.
+- Oval banneton basket.
+- Linen liners.
 - Dough whisk.
-- Bread lame with blade cover.
-- Replacement blades, if operationally possible.
-- Dough scraper.
+- Bench scraper.
 - Bowl scraper.
-- Silicone brush.
+- Bread lame with blade cover.
+- Cleaning brush for baskets.
+- Silicone cooking brush.
 - Flour duster.
-- Cleaning brush.
-- Baking stencils.
-- Sourdough starter jar.
-- Silicone jar base.
+- Bread stencil.
 - Silicone bread sling.
-- Elastic feeding reminder band with days of the week.
-- Printed user manual.
-- Recipe or quick-start guide.
+- Bread bags.
+- Recipe book/manual.
+- Gift-ready box.
 
-Optional value-add items:
+### Optional Or Future Items
 
-- Digital thermometer.
 - Cooling rack.
-- Kraft bread bags.
-- Silicone sling.
 - QR-code video guide.
-- App access, if the team can maintain a real app experience.
-- Online baking community access.
-- Gift note card.
-- Inventory checklist.
+- Online recipe hub.
+- Community access.
 - Warranty or satisfaction guarantee.
-
-## Quality Requirements
-
-- Baskets should be smooth, splinter-free, breathable, and resistant to mold when cared for properly.
-- If using hidden staples or reinforcement in the baskets, the structure must improve durability without creating food-contact or safety concerns.
-- Linen liners should be washable, chemical-free, and sized correctly.
-- Glass jar should be thick, durable, and protected in shipping.
-- Starter jar measurement markings should be clear, accurate, and easy to read.
-- Blade tools should include safety covers and clear warnings.
-- Tools should be lightweight, comfortable, and easy to handle.
-- Every item should have a defined place in packaging.
-- Every kit should pass an inventory check before shipping.
-- Listing should match the product exactly.
-- Avoid complicated assembly.
+- Additional stencil designs.
 
 ## Packaging Direction
 
-The packaging should communicate warmth, completeness, and quality.
+The packaging should communicate:
+
+- Complete kit.
+- Beginner confidence.
+- Gift-ready presentation.
+- Organized contents.
+- Warm artisan baking.
 
 Recommended packaging traits:
 
-- Gift-ready outer box.
-- Protective inserts around glass and sharp tools.
-- Organized compartments.
-- Clear product name and kit contents.
-- Natural but polished visual style.
-- Optional gift message area.
-- Eco-conscious materials if feasible and true.
-- Space for a printed quick-start guide, gift card, or recipe booklet.
-- Clear QR-code placement if video, app, or community support is offered.
+- Clear product name.
+- Strong contents visual.
+- Protective insert for glass jar and sharp blade.
+- Item checklist.
+- Quick-start insert.
+- QR code if videos/resources exist.
+- Natural but polished design.
+- Giftable box presentation.
 
 Avoid:
 
-- Generic kraft-only look with no shelf presence.
-- Overcrowded tool collage with no hierarchy.
-- Claims of sustainability if packaging is not meaningfully sustainable.
-- Fragile glass placement without protection.
+- Generic kraft-only packaging.
+- Overcrowded tool collage.
+- Unsupported eco claims.
+- Fragile glass placement.
+- Tiny unlabeled component visuals.
 
-## Visual Identity Direction
-
-The visual identity should feel warm, modern, and tactile. It should avoid looking like every beige farmhouse sourdough brand.
-
-Recommended visual cues:
-
-- Warm natural neutrals balanced with a fresh accent color.
-- Real bread photography with visible crust, scoring, flour, and basket texture.
-- Clean typography that feels practical and premium.
-- Simple instructional icons for tools and steps.
-- Subtle grain, paper, or linen texture if used carefully.
-- Strong contrast and readability for Amazon thumbnails.
-
-Avoid:
-
-- Overused wheat icons as the main brand idea.
-- All-beige or all-brown palette.
-- Fake rustic distressing.
-- Overly feminine cottage styling if it narrows the audience too much.
-- Dark moody bread photography that hides product details.
-
-## Suggested Color Territories
-
-The team should explore palettes that feel natural without becoming generic:
-
-- Oat, charcoal, warm white, sage, and copper.
-- Warm white, deep green, clay, linen, and black.
-- Soft cream, muted teal, wheat, graphite, and terracotta.
-- Porcelain, olive, honey, espresso, and clean white.
-
-Final colors should be checked against Amazon image readability, packaging cost, and competitor shelf differentiation.
-
-## Photography Direction
-
-Hero photography should show the actual product and the desired result.
-
-Must-have image subjects:
-
-- Full kit flat lay with every item visible.
-- Baskets with dough or finished loaves.
-- Starter jar close-up showing markings, feeding reminder band, durable glass, and silicone cover/base feature.
-- Bread lame and stencils in use.
-- Gift-ready box.
-- Before/after or process sequence: mix, proof, score, bake.
-- Close-up of rattan texture and linen liners.
-- Packaging protection for glass if this becomes a trust claim.
-- QR-code, guide, or app/community support visual if this is a real offer.
-
-Avoid images that are purely atmospheric and do not show the product clearly.
-
-## Amazon Listing Strategy
+## Amazon Listing Direction
 
 ### Main Image
 
-Show the complete kit clearly on a white background. The image should make the kit feel abundant but organized.
+Show the complete kit clearly on white. The kit should look abundant but organized.
 
-### Secondary Images
+### Image Sequence
 
-Recommended image order:
-
-1. Complete kit contents with labeled tools.
-2. Beginner-friendly process: mix, proof, score, bake.
-3. Starter jar feature close-up.
-4. Natural rattan and chemical-free liner quality.
-5. Gift-ready packaging.
-6. Digital, video, or community support, if offered.
-7. Quality check or protected shipping claim.
-8. Beautiful finished loaf outcome.
+1. Full kit contents with labels.
+2. Starter jar and feeding support.
+3. Round and oval baskets.
+4. Mixing and shaping tools.
+5. Scoring, stencils, and decorating.
+6. Silicone sling and bake transfer.
+7. Gift-ready box and bread bags.
+8. Quality checklist / protected packaging if true.
 
 ### A+ Content Themes
 
-- "Begin With Confidence."
-- "Everything You Need In One Kit."
-- "Designed For Better Starter Care."
-- "Natural Baskets For Beautiful Loaves."
-- "A Thoughtful Gift For Bread Lovers."
-- "Guidance Beyond The Box."
-- "Durable Tools For Loaf After Loaf."
+- Begin With Confidence.
+- Tools For Every Step.
+- Starter Care Made Clearer.
+- Shape Round And Oval Loaves.
+- Score, Decorate, And Share.
+- Gift-Ready For Bread Lovers.
+
+## Naming Territories
+
+Explore names around:
+
+- First loaf confidence.
+- Hearth and home.
+- Guided artisan baking.
+- Starter ritual.
+- Sharing bread.
+- Warm craft.
+
+Example name directions:
+
+- Hearthrise.
+- First Loaf.
+- Rise & Score.
+- Loafcraft.
+- Proof & Bloom.
+- Starter & Crust.
+
+These are idea starters only. Any final name needs trademark, Amazon, domain, and competitor checks.
+
+## Claims To Validate Before Use
+
+- Exact included items.
+- Exact basket sizes and dough capacity.
+- Jar size and glass type.
+- Whether live starter is included.
+- Whether all materials are food-safe.
+- Whether rattan is Indonesian, AA-grade, chemical-free, or hand-woven.
+- Whether liners are chemical-free and washable.
+- Whether packaging is recyclable or eco-conscious.
+- Whether a recipe book/manual is printed.
+- Whether QR videos, community, app, or support actually exist.
+- Whether the product is gift-ready.
+- Whether the bread lame includes blade cover and replacement blades.
+- Whether a warranty or satisfaction guarantee will be offered.
 
 ## Brand Story Draft
 
-Sourdough should feel rewarding, not intimidating. Our kit was created to give home bakers a clear, complete starting point: natural proofing baskets, durable tools, starter-care support, and simple guidance in one organized box. Whether it is a first loaf, a weekend ritual, or a thoughtful gift, the goal is the same: help more people enjoy the pride of baking beautiful bread at home.
+Sourdough should feel rewarding, not intimidating. This kit was created to give home bakers a clear, complete starting point: starter-care tools, proofing baskets, dough tools, scoring and decorating accessories, and simple guidance in one organized box. Whether it is a first loaf, a weekend ritual, or a thoughtful gift, the goal is the same: help more people enjoy the pride of baking beautiful bread at home.
 
-## Product Naming Directions
+## Strategic Brand Recommendation
 
-Names should communicate warmth, craft, and approachability. Avoid names that sound too generic or too technical.
+Own the position of approachable artisan sourdough.
 
-Possible naming territories:
+Do not compete only as another "complete kit." Build the brand around a clear customer transformation:
 
-- Hearth and home.
-- First loaf confidence.
-- Artisan made approachable.
-- Starter care and ritual.
-- Giftable bread craft.
-- Guided baking and community.
+From curious but confused beginner to confident home baker with a beautiful loaf worth sharing.
 
-Example name styles:
-
-- Hearthrise Sourdough Kit.
-- First Loaf Sourdough Set.
-- Rise & Score Baking Kit.
-- Loafcraft Sourdough Kit.
-- Proof & Bloom Sourdough Set.
-
-These are idea starters only. They need trademark, Amazon, domain, and competitor checks before use.
-
-## Content Pillars
-
-### Learn
-
-Beginner tips, starter feeding, proofing basics, cleaning instructions, troubleshooting.
-
-Possible formats: printed guide, QR-code videos, app walkthroughs, email tips, or community posts.
-
-### Create
-
-Scoring patterns, stencils, loaf shapes, recipe variations.
-
-### Share
-
-Gifting, family baking, holiday loaves, housewarming moments.
-
-### Trust
-
-Material quality, safety, packaging protection, inventory checks, honest contents.
-
-### Support
-
-Customer service, warranty, satisfaction guarantee, expert tips, online community, and post-purchase learning.
-
-## Launch Messaging Priorities
-
-Highest priority:
-
-- Complete beginner-friendly kit.
-- Beautiful artisan results at home.
-- Gift-ready presentation.
-- Upgraded starter jar and feeding support.
-- Quality checked and protected packaging.
-- Durable, comfortable tools.
-- Competitive value for money.
-- Video, app, or community support if real.
-
-Lower priority:
-
-- Professional baker usage.
-- Advanced techniques.
-- Sustainability claims, unless strongly supported.
-- Electronic-product claims such as battery life, sound quality, connectivity, or quiet operation, unless the final product includes electronics.
-
-## Claims And Compliance Checklist
-
-Before final brand or listing copy, confirm:
-
-- Exact included items.
-- Exact basket sizes.
-- Exact jar size and glass type.
-- Whether starter is included.
-- Whether the kit includes a silicone bread sling.
-- Whether the starter jar has a funnel-style opening.
-- Whether the silicone cover doubles as a non-slip base.
-- Whether materials are food-safe certified.
-- Whether rattan is Indonesian, AA-grade, and chemical-free.
-- Whether linen is chemical-free.
-- Whether packaging is recyclable or eco-friendly.
-- Whether live support, app support, video support, or community access exists.
-- Whether the app or community is real, maintained, and helpful enough to mention in listing copy.
-- Whether the product can claim gift-ready packaging.
-- Whether all blades include safety covers.
-- Whether a warranty or satisfaction guarantee will be offered.
-- Whether claims about durability, mold resistance, splinter resistance, and measurement accuracy can be supported.
-
-## Strategic Recommendation
-
-Build the brand around "approachable artisan sourdough" with a strong beginner, gifting, durability, and support focus. The product should feel more thoughtful than a commodity tool bundle by emphasizing clear guidance, upgraded starter care, organized packaging, quality-control trust, comfortable tools, and support beyond the box.
-
-The brand team should make every decision answer one question:
+Every brand decision should answer:
 
 Will this make the customer feel more confident starting sourdough?
 
-Secondary decision filter:
+Secondary filter:
 
-Will this make the kit feel more durable, complete, giftable, and fairly priced without adding confusing or unsupported claims?
+Will this make the kit feel more complete, durable, giftable, and trustworthy without adding unsupported claims?
