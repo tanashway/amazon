@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sourdough Kit Brand Hub</title>
+    <meta
+      name="description"
+      content="Internal brand, product, and Amazon listing strategy hub for the premium sourdough kit project."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar" aria-label="Document navigation">
+      <div class="brand-block">
+        <div class="brand-mark">SD</div>
+        <div>
+          <p class="eyebrow">Amazon Product Strategy</p>
+          <h1>Sourdough Kit Hub</h1>
+        </div>
+      </div>
+
+      <nav class="nav-list" id="navList"></nav>
+    </aside>
+
+    <main class="shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">Internal Team Resource</p>
+          <h2>Premium Sourdough Bread Baking Kit</h2>
+          <p>
+            A centralized handoff for brand, product, listing, and creative teams.
+            Use this hub to understand the product strategy, required kit components,
+            points of parity, points of difference, and Amazon variation structure.
+          </p>
+        </div>
+        <div class="hero-panel">
+          <span>Default Main Variation</span>
+          <strong>Classic Round + Oval Kit</strong>
+          <p>
+            Best balance of completeness, price, giftability, and Amazon competitiveness.
+          </p>
+        </div>
+      </section>
+
+      <section class="quick-grid" aria-label="Project highlights">
+        <article>
+          <span>Positioning</span>
+          <strong>Approachable artisan sourdough</strong>
+          <p>Complete tools plus starter-care support and beginner guidance.</p>
+        </article>
+        <article>
+          <span>Core Buyer</span>
+          <strong>Beginner and gift-driven home baker</strong>
+          <p>Needs confidence, clarity, quality, and a complete setup.</p>
+        </article>
+        <article>
+          <span>Variation Strategy</span>
+          <strong>One parent listing</strong>
+          <p>Keep ranking, reviews, PPC learning, and conversion data concentrated.</p>
+        </article>
+      </section>
+
+      <section class="toolbar" aria-label="Document controls">
+        <div>
+          <label for="docSelect">Document</label>
+          <select id="docSelect"></select>
+        </div>
+        <div>
+          <label for="searchInput">Search within document</label>
+          <input id="searchInput" type="search" placeholder="Search strategy, jar, POD..." />
+        </div>
+      </section>
+
+      <article class="document-card">
+        <header class="document-header">
+          <div>
+            <p class="eyebrow" id="docKicker">Document</p>
+            <h2 id="docTitle">Loading...</h2>
+          </div>
+          <a id="rawLink" href="#" target="_blank" rel="noreferrer">Open Markdown</a>
+        </header>
+        <div id="documentContent" class="markdown-body" aria-live="polite"></div>
+      </article>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
