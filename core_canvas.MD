@@ -1,539 +1,297 @@
 # Core Message Canvas: Premium Sourdough Bread Baking Kit
 
-## Canvas Structure
+## Purpose
 
-This canvas is structured as an internal messaging and strategy tool using the following format:
+This canvas turns the customer insight into messaging the team can use for Amazon listing copy, image sequence, A+ content, packaging, inserts, and creative briefs.
 
-- What We Do
-- Why We Do It
-- Who We Serve
-- Who We Are
-- Authority Amplifiers
-- Brand personality and style guide
+The structure:
 
-This is not only an Amazon listing exercise. The purpose is to give the brand team a clear strategic foundation they can use for naming, packaging, listing copy, A+ content, inserts, support materials, and future product expansion.
+- Before.
+- Avatar/persona.
+- Product/service.
+- After.
+- Statement of value.
+- Metaphor.
+- Jobs to be done.
 
-## Product Context
+## Avatar / Persona
 
-Product: Premium sourdough bread baking kit.
+### Primary Avatar
 
-Current strategic direction:
+Beginner sourdough baker.
 
-- Compete in one parent listing with multiple variations.
-- Default main variation should be the complete round + oval kit with starter jar.
-- Core audience is beginner and gift-driven home bakers.
-- The brand must make sourdough feel approachable, complete, organized, and gift-worthy.
-- The product should feel like a guided baking system, not a random accessory bundle.
+This customer wants to make homemade sourdough but feels unsure where to start, which tools matter, and whether they can get a good result.
 
-Important note:
+### Secondary Avatars
 
-The latest DataDive brief included several unrelated AI-generated attributes. Those have been treated as data noise and excluded from the strategic recommendations.
+- Gift buyer.
+- Family/home activity baker.
+- Creative baker.
+- Health-conscious homemade bread buyer.
+- Eco-conscious baker.
+- Experienced artisan home baker.
+- Busy home cook.
 
-## What We Do
+## Product / Service
 
-We help home bakers start making beautiful sourdough bread with a complete, beginner-friendly kit that organizes the essential tools for starter care, mixing, shaping, proofing, scoring, baking transfer, cleaning, and gifting.
+Complete guided sourdough baking kit.
 
-Simple version:
+The kit should help the customer move through the major sourdough workflow:
 
-We make sourdough easier to start, easier to understand, and more beautiful to share.
+starter care -> mixing -> shaping -> proofing -> scoring -> baking transfer -> cooling -> sharing.
 
-Amazon-facing version:
+Core product promise:
 
-A complete sourdough baking kit with starter jar, proofing baskets, shaping tools, scoring tools, decorative accessories, and clear beginner guidance for making artisan-style bread at home.
+A complete, beginner-friendly sourdough kit that gives home bakers the tools and guidance to start with more confidence.
 
-## Why We Do It
+## Before
 
-### Vision
+### Have
 
-To make homemade sourdough feel approachable, rewarding, and shareable for everyday home bakers.
+- Interest in sourdough but no clear starting point.
+- Scattered advice from recipes, videos, reviews, and social media.
+- Uncertainty about which tools are required and which are optional.
+- Fear of buying an incomplete or low-quality kit.
+- Concern about sticky dough, starter care, scoring, proofing, and cleanup.
 
-### Mission
+### Feel
 
-Build a complete, trustworthy sourdough kit that removes beginner confusion, supports every major step in the baking process, and helps customers feel proud of their first loaf and every loaf after.
+- Curious.
+- Inspired.
+- Intimidated.
+- Confused by terminology and tool lists.
+- Worried about wasting ingredients, time, and money.
 
-### Core Values
+### Average Day
 
-**Clarity over confusion**
+- Sees beautiful sourdough loaves online.
+- Saves recipes or watches short videos.
+- Searches Amazon for kits.
+- Compares piece counts, images, reviews, and price.
+- Hesitates because many kits look similar or confusing.
 
-Sourdough can feel technical. Our job is to make the process understandable without oversimplifying it or making false promises.
+### Status
 
-**Complete means useful**
+- Beginner or early-stage hobby baker.
+- Wants to feel capable, not like an outsider.
+- Wants to make something impressive without needing expert-level knowledge first.
 
-Every included item should have a clear role in the baking journey. Avoid filler accessories that inflate item count without helping the customer.
+### Good vs. Evil
 
-**Confidence before perfection**
+Good:
 
-Do not promise perfect bread. Promise the tools, guidance, and structure that make the customer more confident.
+- Clear, guided, approachable baking.
+- Honest instructions.
+- Tools that each have a real purpose.
+- Beautiful homemade bread that feels achievable.
 
-**Honest quality**
+Evil:
 
-Be specific and truthful about materials, components, dimensions, included items, and limitations.
+- Confusing sourdough jargon.
+- Incomplete kits.
+- Fragile jars and missing pieces.
+- Filler accessories used to inflate piece count.
+- Overpromising perfect results.
 
-**Gift-worthy care**
+## After
 
-The product should feel thoughtful from the box to the finished loaf.
+### Have
 
-**Food, family, and craft**
-
-The emotional center is not just bread. It is the pride of making something wholesome, beautiful, and worth sharing.
-
-## Who We Serve
-
-### Primary Audience: Beginner Sourdough Starter
-
-Description:
-
-A home baker who wants to try sourdough but feels unsure where to start. They have likely seen beautiful loaves online, received sourdough inspiration from friends or family, or want to make healthier homemade bread.
-
-Demographics:
-
-- Mostly home cooks and beginner bakers.
-- Likely adults shopping for themselves or their household.
-- Often inspired by homemaking, wellness, family cooking, social media, or hobby baking.
-- Comfortable buying kitchen products on Amazon.
-- Values convenience, clear instructions, and good value.
-
-Frustrations and fears:
-
-- "I do not know which tools I actually need."
-- "Starter care seems confusing."
-- "What if the dough sticks everywhere?"
-- "What if my loaf looks ugly?"
-- "What if the kit arrives missing pieces?"
-- "What if the jar breaks or the baskets are low quality?"
-- "What if I waste ingredients and give up?"
-
-Wants and aspirations:
-
-- Bake a beautiful loaf at home.
-- Understand the sourdough process.
-- Feel capable as a beginner.
-- Make bread that looks artisan and impressive.
-- Create a healthier homemade bread routine.
-- Share bread with family, friends, or guests.
-- Own tools that feel complete and organized.
-
-Key purchasing drivers:
-
-- Complete kit in one purchase.
-- Beginner-friendly instructions.
-- Clear starter jar markings and feeding support.
+- A complete set of tools for the main sourdough workflow.
+- Starter jar and tracking support.
 - Round and oval proofing baskets.
-- Good perceived value.
-- Gift-ready presentation.
-- Real product images showing every component.
-- Positive proof around quality and completeness.
+- Mixing, shaping, scoring, transfer, decorating, cleaning, and sharing tools.
+- A clear understanding of what each component does.
 
-### Secondary Audience: Gift Buyer
+### Feel
 
-Description:
+- More confident starting sourdough.
+- Organized.
+- Proud of making homemade bread.
+- Excited to share the finished loaf.
+- Reassured that they bought a kit with a clear purpose.
 
-Someone shopping for a thoughtful gift for a baker, home cook, family member, friend, or hobbyist.
+### Average Day
 
-Frustrations and fears:
+- Feeds starter and tracks growth.
+- Mixes dough with less mess.
+- Shapes and proofs with the right baskets.
+- Scores the loaf with more confidence.
+- Transfers dough safely.
+- Cools, bags, shares, or gifts the bread.
 
-- Does not want the gift to feel cheap.
-- Does not want to buy an incomplete kit.
-- May not know much about sourdough themselves.
-- Needs the product to explain itself visually.
+### Status
 
-Wants and aspirations:
+- From confused beginner to capable home baker.
+- From shopper comparing random accessories to owner of a guided baking system.
+- From intimidated observer to someone who can participate in the sourdough ritual.
 
-- A gift that feels personal, useful, and premium.
-- A box that looks ready to give.
-- A recipient experience that feels exciting and approachable.
+### Good vs. Evil
 
-Key purchasing drivers:
+Good:
 
-- Gift-ready packaging.
-- Clear "complete kit" visual.
-- Recipe/manual included.
-- Bread bags and decorative stencils.
-- Attractive finished loaf imagery.
+- Guided progress.
+- Useful completeness.
+- Visible results.
+- Sharing bread with family, friends, or guests.
 
-### Secondary Audience: Artisan / Creative Baker
+Evil:
 
-Description:
+- Guesswork.
+- Mess.
+- Missing steps.
+- Poor instructions.
+- Products that look complete but do not explain the process.
 
-An intermediate home baker who already likes baking and wants better tools or a more complete set.
+## Statement Of Value
 
-Frustrations and fears:
+### Primary Statement
 
-- Cheap baskets.
-- Dull or unsafe lame.
-- Missing accessories.
-- Tools that look good online but feel flimsy.
+Give home bakers the tools and guidance to start sourdough with more confidence, from starter care to a finished loaf.
 
-Wants and aspirations:
+### Amazon Listing Version
 
-- Better scoring and patterns.
-- Round and oval loaf options.
-- Cleaner workflow.
-- More attractive finished bread.
+Start your sourdough journey with a complete baking kit designed to guide beginners through starter care, mixing, shaping, proofing, scoring, baking transfer, decorating, and sharing.
 
-Key purchasing drivers:
+### Short Version
 
-- Rattan basket quality.
-- Scoring tools and blade cover.
-- Stencils and flour duster.
-- Silicone sling.
-- Durable scraper and whisk.
+Everything you need to make sourdough feel clear, complete, and achievable.
 
-### Secondary Audience: Health-Conscious / Family Baker
+### Gift Version
 
-Description:
+A thoughtful, gift-ready sourdough baking kit for anyone who wants to make beautiful homemade bread.
 
-Someone who wants homemade bread with fewer unknowns and more control over ingredients.
+## Metaphor
 
-Frustrations and fears:
+### Primary Metaphor
 
-- Store-bought bread feels too processed.
-- Sourdough sounds healthy but intimidating.
-- Family baking can become messy.
+A guided baking station in a box.
 
-Wants and aspirations:
+Meaning:
 
-- Make wholesome bread at home.
-- Create a family activity.
-- Teach kids or partners a hands-on kitchen skill.
-- Feel proud serving homemade bread.
+The kit should not feel like a pile of accessories. It should feel like an organized system where every tool belongs to a specific step.
 
-Key purchasing drivers:
+### Supporting Metaphors
 
-- Beginner guidance.
-- Starter-care confidence.
-- Easy cleaning.
-- Safe handling and clear blade warnings.
-- Bread bags for sharing.
+- A roadmap from starter to loaf.
+- A beginner's sourdough workbench.
+- A bread-making ritual kit.
 
-## The Before And After
+Avoid metaphors that make sourdough sound effortless, instant, or guaranteed.
 
-### Before State
+## Jobs To Be Done
 
-The customer wants to make sourdough but sees a confusing process:
+### Functional Jobs
 
-- Starter feeding.
-- Unknown tools.
-- Sticky dough.
-- Proofing baskets.
-- Scoring blades.
-- Bakeware transfer.
-- Cleaning and storage.
+1. Help the customer understand what tools are included.
+2. Help the customer care for or track a sourdough starter.
+3. Help mix sticky dough with less frustration.
+4. Help scrape, divide, move, and shape dough.
+5. Help proof round and oval loaves.
+6. Help reduce sticking with liners and flour-dusting tools.
+7. Help score dough safely and cleanly.
+8. Help decorate loaves with stencils.
+9. Help transfer dough into hot bakeware with more confidence.
+10. Help clean baskets and tools after use.
+11. Help package or share finished bread.
+12. Help the buyer give the product as a thoughtful gift.
 
-They feel interested but hesitant.
+### Emotional Jobs
 
-### After State
-
-The customer sees a clear path:
-
-Starter care -> mixing -> shaping -> proofing -> scoring -> baking transfer -> cooling -> sharing.
-
-They feel equipped, guided, and proud.
-
-## Core Problems To Solve
-
-- Beginners do not understand the sourdough workflow.
-- Competitor kits can feel like piles of accessories.
-- Customers worry about missing or damaged parts.
-- Starter jars can feel fragile or unclear.
-- Poor instructions create refund risk and bad reviews.
-- Baskets can raise concerns about splinters, mold, sticking, or cleaning.
-- Gift buyers need clear presentation and perceived value.
-- Category competitors often overuse "complete kit" without explaining why the kit is complete.
-
-## Who We Are
-
-### Step-By-Step Plan
-
-The brand should teach the journey in a repeatable order:
-
-1. Grow and maintain the starter.
-2. Mix the dough.
-3. Shape the dough.
-4. Proof in the baskets.
-5. Score and decorate.
-6. Transfer and bake.
-7. Cool, bag, gift, and share.
-
-This step-by-step plan should appear in:
-
-- Listing image sequence.
-- A+ content.
-- Insert/manual.
-- QR-code learning page.
-- Packaging side panel.
-
-### Absolutes We Maintain
-
-- Always show exactly what is included.
-- Always distinguish core tools from add-ons.
-- Always explain what each item does.
-- Always include blade safety language.
-- Always clarify whether live starter culture is included or not.
-- Always avoid "perfect bread guaranteed" claims.
-- Always validate food-safe, chemical-free, rattan-grade, and glass-quality claims before using them.
-
-### Specific And Tactical Q&A
-
-**Do I need all of this to start?**
-
-You need a reliable starter setup, mixing tools, shaping tools, proofing support, scoring tools, and clear guidance. This kit collects those tools so you can start without guessing.
-
-**Does the kit include live starter?**
-
-Only say yes if the final product includes live starter culture. If not, say the kit includes starter-care tools and beginner guidance, not live starter.
-
-**Why two basket shapes?**
-
-Round baskets help make boule-style loaves. Oval baskets help make longer batard-style loaves. The two shapes give beginners more flexibility.
-
-**Why does the jar matter?**
-
-The jar helps customers see starter growth, track feeding, and keep the process organized.
-
-**Are stencils required?**
-
-No. They are creative add-ons for decorative loaves and gift-worthy presentation.
-
-**Why use a silicone sling?**
-
-It helps transfer dough into hot bakeware with more confidence and keeps hands farther from heat.
-
-### Rites And Rituals
-
-These are the recurring brand behaviors that make the product feel memorable:
-
-- Feed the starter and move the day tracker.
-- Watch the starter rise against the markings.
-- Dust the basket before proofing.
-- Turn dough out of the basket.
-- Score one clean expansion cut.
-- Add a stencil pattern for a special loaf.
-- Let bread cool before slicing.
-- Bag one loaf to share.
-
-These rituals should be reflected in copy and photography.
-
-### Core Beliefs
-
-- Sourdough should feel learnable.
-- A beginner deserves tools that make sense.
-- A complete kit should guide a workflow, not just include many objects.
-- Beautiful bread is not only for experts.
-- The first loaf does not need to be perfect to feel meaningful.
-- Good tools reduce friction and build confidence.
-- Homemade bread is a small act of care.
-
-### Authority Amplifiers
-
-Use these to build trust and authority in the category:
-
-- Clear step-by-step workflow.
-- Visual component guide.
-- Starter-care education.
-- Honest beginner guidance.
-- Quality-control checklist.
-- Real product photography.
-- Measurement and feeding support.
-- Blade safety guidance.
-- Basket care guidance.
-- Troubleshooting content for common beginner issues.
-- QR-code video library or learning hub if the brand can support it.
-- Review-driven improvements: stronger packaging, clearer inventory, better jar protection.
-
-## Brand Personality
-
-### Primary Character Trait
-
-Patient artisan guide.
-
-The brand should feel like an experienced baker who calmly shows a beginner what to do next.
-
-### Brand Archetype
-
-The mentor-maker.
-
-It teaches, supports, and celebrates the craft without making the customer feel inadequate.
-
-### Non-Negotiable
-
-No false confidence claims.
-
-We can say the kit helps beginners start with confidence. We cannot imply instant mastery, guaranteed success, or perfect bread every time.
-
-### Secondary Character Trait
-
-Warm, practical, and quietly premium.
-
-The brand should feel useful and beautiful, not overly rustic, gimmicky, or childish.
-
-### Quirk / Flaw / Human Texture
-
-Sourdough is alive and imperfect. The brand can acknowledge that every starter, kitchen, and loaf behaves a little differently. This honesty makes the brand more trustworthy.
-
-## Voice And Style Guide
-
-### Voice
-
-- Clear.
-- Reassuring.
-- Warm.
-- Practical.
-- Confident but not arrogant.
-- Premium but not snobby.
-
-### Copy Should Sound Like
-
-- "Start your sourdough journey with tools for every step."
-- "Track starter growth with clear jar markings."
-- "Shape round and oval artisan-style loaves."
-- "Score, decorate, bake, and share."
-- "Designed to help beginners reduce guesswork."
-
-### Copy Should Not Sound Like
-
-- "No-fail sourdough."
-- "Perfect bakery results every time."
-- "Professional quality guaranteed."
-- "Mold-proof" unless validated.
-- "Chemical-free" unless validated.
-- "Starter included" unless live starter culture is actually included.
-
-### Visual Style
-
-Recommended direction:
-
-- Bright, clean kitchen photography.
-- Warm bread tones, natural rattan, linen, glass, and soft flour texture.
-- Clear labels for every component.
-- Process images showing hands using tools.
-- Finished bread shots that feel achievable, not overly staged.
-- Packaging that looks giftable and organized.
-
-Avoid:
-
-- Overly dark rustic photography.
-- Visual clutter.
-- Tiny components with no labels.
-- Claims floating over images without showing proof.
-- Images that make add-ons look more important than the core workflow.
-
-## Core Message
-
-Primary message:
-
-Make beautiful sourdough feel approachable from day one.
-
-Expanded message:
-
-A complete sourdough baking kit that guides beginners from starter care to a finished loaf with organized tools, proofing baskets, scoring and decorating accessories, clear instructions, and gift-ready presentation.
+1. Help the customer feel capable.
+2. Reduce fear of starting.
+3. Make sourdough feel less mysterious.
+4. Create pride in a handmade loaf.
+5. Turn baking into a calm, rewarding ritual.
+6. Make the gift buyer feel they chose something complete and thoughtful.
+
+### Social Jobs
+
+1. Help customers share bread with family or friends.
+2. Help customers feel like they are joining the home baking craft.
+3. Help finished loaves look beautiful enough to photograph or gift.
+4. Help family members participate in a hands-on kitchen activity.
 
 ## Message Hierarchy
 
 ### Level 1: Main Promise
 
-Everything you need to begin your sourdough journey with confidence.
+Make sourdough feel approachable from day one.
 
-### Level 2: Practical Proof
+### Level 2: Product Proof
 
-- Starter jar for feeding, storing, and tracking starter growth.
-- Round and oval banneton baskets for classic loaf shapes.
-- Dough whisk and scrapers for sticky dough handling.
-- Bread lame and blade cover for scoring.
-- Silicone sling for hot bakeware transfer.
-- Stencils, flour duster, bread bags, and gift packaging for beautiful sharing.
-- Beginner guide/manual and optional QR video support.
+- Complete workflow coverage.
+- Starter jar and tracking support.
+- Round and oval proofing baskets.
+- Dough whisk, scrapers, lame, sling, stencils, duster, brush, liners, and bread bags.
+- Clear component explanation.
+- Gift-ready presentation.
 
 ### Level 3: Emotional Payoff
 
-- Feel capable.
-- Make something wholesome.
-- Create bread that looks impressive.
-- Share a thoughtful homemade loaf.
+- Feel confident.
+- Make something beautiful.
+- Share a homemade loaf.
 - Enjoy a slower, hands-on kitchen ritual.
 
-## Reasons To Believe
+## Core Purchase Drivers
 
-- Complete workflow coverage from starter care to sharing.
-- Real visual component guide.
-- Round and oval basket variation.
-- Starter jar with feeding tracker, cloth cover, lid, thermometer strip, and spatula if final specs confirm.
-- Natural rattan proofing basket positioning if supplier confirms material.
-- Safety-minded bread lame presentation with blade cover.
-- Clear item checklist to reduce missing-item complaints.
-- Protective packaging for glass and fragile components.
-- Beginner-focused education.
+- Complete kit, not random bundle.
+- Beginner-friendly guidance.
+- Clear component labels and visual explanation.
+- Durable jar and protected packaging.
+- Natural rattan baskets and washable liners.
+- Gift-ready box.
+- Honest claims.
+- Easy cleanup and storage.
+- Useful tools for every major sourdough step.
 
-## Objections And Responses
+## Frustrations And Fears To Address
 
-### "I am new and sourdough seems hard."
+- "Will I know what to do with all these tools?"
+- "Is this actually complete?"
+- "Will the glass jar arrive broken?"
+- "Are the baskets smooth and clean?"
+- "Is this beginner-friendly or only for experts?"
+- "Will this be nice enough as a gift?"
+- "Are there useless filler pieces?"
+- "Will the instructions be clear?"
 
-The kit breaks the process into clear steps and gives you the tools for each stage.
+## Messaging Rules
 
-### "Is this actually complete?"
+### Say This
 
-Show a labeled contents image and explain how each part fits into the workflow.
+- "Tools for every step."
+- "From starter care to finished loaf."
+- "Designed to reduce beginner guesswork."
+- "Shape round and oval artisan-style loaves."
+- "Score, decorate, bake, and share."
+- "Gift-ready for home bakers and bread lovers."
 
-### "Will I need to buy more items?"
+### Do Not Say This
 
-Be precise. The kit includes tools, but the customer still needs ingredients and bakeware. Do not hide this.
+- "No-fail sourdough."
+- "Perfect results guaranteed."
+- "Professional bakery results every time."
+- "Starter included" unless live starter culture is included.
+- "Chemical-free" unless supplier documentation confirms it.
+- "Food-safe certified" unless supplier documentation confirms it.
 
-### "Will the jar or tools feel cheap?"
+## Listing Image Guidance
 
-Use real close-up images, material callouts, and quality-control language backed by supplier specs.
+1. Complete kit hero.
+2. Labeled component guide.
+3. Starter care and jar tracking.
+4. Mix, shape, and proof workflow.
+5. Score, decorate, and transfer workflow.
+6. Basket and liner quality details.
+7. Cleaning and storage.
+8. Gift-ready packaging.
 
-### "Is it giftable?"
+## Final Core Message
 
-Show the box, manual, recipe guide, bread bags, and finished loaf presentation.
+Customers are not only buying sourdough tools. They are buying a clearer path into the craft.
 
-### "Are the blades safe?"
+The product should make the customer feel:
 
-Show the blade cover, include caution language, and make safe storage part of the product story.
-
-## Amazon Listing Angles
-
-### Hero Listing Angle
-
-Complete sourdough baking kit for beginners, with starter-care tools, round and oval proofing baskets, scoring tools, decorative accessories, and gift-ready presentation.
-
-### Beginner Confidence Angle
-
-From starter care to your first finished loaf, each tool has a clear purpose.
-
-### Gift Angle
-
-A thoughtful baking gift for home cooks, bread lovers, homemakers, and creative food people.
-
-### Quality Angle
-
-Designed to arrive organized, clearly labeled, and ready for the customer to understand.
-
-### Visual Guide Angle
-
-Use a labeled component image and a process image sequence so customers understand the kit immediately.
-
-## Product Claims To Validate Before Use
-
-- Exact basket sizes.
-- Exact dough capacity.
-- Rattan type and grade.
-- Linen material and washability.
-- Jar material, capacity, and durability.
-- Food-contact safety.
-- Whether the jar includes thermometer strip, tracker band, cloth cover, aluminum lid, silicone base, and spatula.
-- Whether the kit includes live starter culture.
-- Whether the kit includes recipe book, printed manual, QR videos, or community support.
-- Whether packaging is gift-ready and recyclable.
-- Whether there is a warranty or satisfaction guarantee.
-
-## Recommended Positioning Statement
-
-For beginner and gift-driven home bakers, this is a complete sourdough baking kit that makes artisan bread feel approachable from day one, because it connects each tool to a clear baking step: starter care, mixing, shaping, proofing, scoring, baking transfer, decorating, and sharing.
-
-## Short Tagline Options
-
-- Beautiful sourdough starts here.
-- From starter to loaf, begin with confidence.
-- The complete kit for your first beautiful loaf.
-- Make sourdough feel simple.
-- Shape, score, bake, share.
+I can start this. I understand what each tool does. I can make something beautiful and share it.
