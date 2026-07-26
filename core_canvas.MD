@@ -14,6 +14,8 @@ The structure:
 - Metaphor.
 - Jobs to be done.
 
+Use one Core Message Canvas per important avatar and offer combination. The message for a beginner sourdough baker is not identical to the message for a gift buyer, so the team should duplicate this canvas later for any avatar that becomes strategically important.
+
 ## Avatar / Persona
 
 ### Primary Avatar
@@ -145,6 +147,12 @@ Evil:
 
 ## Statement Of Value
 
+Formula:
+
+`[Product/service] helps [avatar/customer segment] [achieve the after state].`
+
+The Statement of Value should usually be one sentence, or two at most. It should summarize the after-state transformation, not list every component.
+
 ### Primary Statement
 
 Give home bakers the tools and guidance to start sourdough with more confidence, from starter care to a finished loaf.
@@ -163,6 +171,25 @@ A thoughtful, gift-ready sourdough baking kit for anyone who wants to make beaut
 
 ## Metaphor
 
+Metaphor helps make a complex offer instantly understandable. The goal is not cleverness for its own sake; the goal is a simple picture in the customer's mind.
+
+Metaphor development process:
+
+1. Identify the primary value driver.
+2. Pick the value word we want to own.
+3. Brainstorm related concepts away from the product category.
+4. Look for images, phrases, objects, or situations that create instant understanding.
+5. Test whether the metaphor clarifies the offer without overpromising.
+
+Possible value words for this kit:
+
+- Clarity.
+- Confidence.
+- Guidance.
+- Completeness.
+- Ritual.
+- Share-worthy.
+
 ### Primary Metaphor
 
 A guided baking station in a box.
@@ -180,6 +207,20 @@ The kit should not feel like a pile of accessories. It should feel like an organ
 Avoid metaphors that make sourdough sound effortless, instant, or guaranteed.
 
 ## Jobs To Be Done
+
+Jobs-to-be-done formula:
+
+`When I [situation], I want to [motivation], so I can [expected outcome].`
+
+This section should describe what the customer is hiring the product to help them do in their life. Write from the customer's point of view, not from the product's point of view.
+
+Product-centric:
+
+This kit includes proofing baskets, a starter jar, scrapers, and scoring tools.
+
+Customer-centric:
+
+When I am ready to try sourdough, I want a clear set of tools for each step so I can start without guessing what to buy or what to do next.
 
 ### Functional Jobs
 
@@ -211,6 +252,14 @@ Avoid metaphors that make sourdough sound effortless, instant, or guaranteed.
 2. Help customers feel like they are joining the home baking craft.
 3. Help finished loaves look beautiful enough to photograph or gift.
 4. Help family members participate in a hands-on kitchen activity.
+
+### Jobs-To-Be-Done Statements
+
+1. When I want to start sourdough but feel overwhelmed, I want a complete tool set organized by step so I can begin without guessing what I need.
+2. When I am feeding a starter, I want clear jar markings and a tracking system so I can see growth and remember the process.
+3. When I am handling sticky dough, I want the right whisk and scrapers so I can mix, divide, and shape with less mess.
+4. When I want my bread to look artisan, I want round and oval proofing baskets, scoring tools, and stencils so I can create loaves that look worth sharing.
+5. When I am giving a baking gift, I want the kit to look complete and thoughtful so I can feel confident the recipient will understand and enjoy it.
 
 ## Message Hierarchy
 

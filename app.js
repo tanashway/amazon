@@ -65,7 +65,7 @@ const rawLink = document.querySelector("#rawLink");
 
 let activeIndex = 0;
 let activeMarkdown = "";
-const assetVersion = "source-clean-2";
+const assetVersion = "source-clean-3";
 
 const brandAuditRows = [
   {
