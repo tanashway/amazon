@@ -65,7 +65,7 @@ const rawLink = document.querySelector("#rawLink");
 
 let activeIndex = 0;
 let activeMarkdown = "";
-const assetVersion = "68da2d9-components";
+const assetVersion = "source-clean-2";
 
 const brandAuditRows = [
   {
@@ -322,7 +322,7 @@ async function loadDocument(index) {
   }
 
   try {
-    const response = await fetch(`./${doc.file}`);
+    const response = await fetch(`./${doc.file}?v=${assetVersion}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`Unable to load ${doc.file}`);
     activeMarkdown = await response.text();
     renderMarkdown(activeMarkdown);
