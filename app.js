@@ -15,7 +15,7 @@ const documents = [
     file: "customer_avatar_research.MD",
     title: "Customer Avatar Research",
     kicker: "Audience",
-    summary: "DigitalMarketer customer avatar framework applied to the baking brand."
+    summary: "Customer avatar framework applied to the baking brand."
   },
   {
     title: "Brand Audit",

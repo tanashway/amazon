@@ -1,40 +1,8 @@
-# Customer Avatar Research: DigitalMarketer Knowing Your Customer
+# Customer Avatar Research
 
-## Source Checked
+## Main Insight
 
-I checked the gated DigitalMarketer lesson page:
-
-`Digital Marketing Mastery > Knowing Your Customer > Customer Avatar Canvas`
-
-I also pulled the related lessons in the same section:
-
-- Knowing Your Customer.
-- Customer Avatar Canvas.
-- Before & After.
-- Building Your Before & After.
-- Before & After in Action.
-- Crafting Your Core Message Canvas.
-
-Local reference files are in:
-
-`CustomerAvatarResources/`
-
-Downloaded PDFs:
-
-- `Customer-Avatar-Canvas_CP.pdf`
-- `03-Core-Message-Canvas_CP copy.pdf`
-- `01-Value-Journey-Worksheet-color-CP copy.pdf`
-- `Study Guide - DMM - v1.5.pdf`
-- `Digital-Marketing-Mastery-Pacing-Calendars.pdf`
-- `2021-DMM-v2.0.pdf`
-
-Important note:
-
-The lesson pages embed Vimeo videos, but the page HTML does not include written transcript text. The full Digital Marketing Mastery PDF includes the Module 2 workbook prompts and quiz explanations, so this file uses the available course PDF, study guide, and rendered worksheet PDFs as the reliable source.
-
-## Main Lesson
-
-The section is built around one practical idea:
+This research is built around one practical idea:
 
 Marketing gets stronger when we deeply understand the specific customer, their current state, the desired future state, and the transformation they are trying to buy.
 
@@ -216,7 +184,7 @@ Customers want:
 
 ## Core Message Canvas Implication
 
-DigitalMarketer's Core Message Canvas connects:
+The Core Message Canvas connects:
 
 - Before state.
 - Avatar/persona.
