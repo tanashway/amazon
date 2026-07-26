@@ -19,7 +19,7 @@ const documents = [
   },
   {
     title: "Brand Audit",
-    kicker: "Workshop",
+    kicker: "Audit",
     summary: "6-point brand audit with score, rationale, and action items.",
     type: "brandAudit"
   },
@@ -346,7 +346,7 @@ function renderBrandAudit(query = "") {
         <p class="eyebrow">6-Point Brand Audit</p>
         <h2>Current Brand Readiness Score</h2>
         <p>
-          This audit uses the workshop categories to evaluate the broader baking-products brand,
+          This audit uses six core brand categories to evaluate the broader baking-products brand,
           with the sourdough kit treated as the first flagship product.
         </p>
       </div>

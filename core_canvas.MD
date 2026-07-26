@@ -1,8 +1,8 @@
 # Core Message Canvas: Premium Sourdough Bread Baking Kit
 
-## Workshop Source
+## Canvas Structure
 
-This canvas is structured from DigitalMarketer's workshop, `Architect a Branding Blueprint that Builds Authority`, using the Brand Blueprint Template format:
+This canvas is structured as an internal messaging and strategy tool using the following format:
 
 - What We Do
 - Why We Do It

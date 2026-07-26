@@ -1,10 +1,10 @@
 # Brand Blueprint: Baking Products Brand
 
-## Workshop Source
+## Blueprint Structure
 
-This brand blueprint follows the DigitalMarketer workshop structure from `Architect a Branding Blueprint that Builds Authority`.
+This brand blueprint is organized as a practical internal brand strategy document.
 
-The workshop blueprint is organized around:
+The blueprint is organized around:
 
 - What We Do
 - Why We Do It
@@ -14,7 +14,7 @@ The workshop blueprint is organized around:
 - Brand personality
 - Style guide
 
-The full Elite workshop frames the work in four parts:
+The brand-building work should be handled in four parts:
 
 1. Clarify brand positioning.
 2. Identify authority amplifiers.
@@ -78,7 +78,7 @@ Our first product is a complete sourdough baking kit that helps customers move f
 
 To become a trusted home baking brand for people who want to make beautiful, meaningful baked goods without feeling intimidated by the process.
 
-Workshop definition:
+Working definition:
 
 Vision is the brand's core belief or point of view about the world and the company's place in it. It is idealistic, aspirational, and has no fixed time horizon.
 
@@ -90,9 +90,9 @@ Customer-centric with a light category/industry point of view. The brand exists 
 
 To design baking products that give home bakers the confidence, tools, and guidance to create and share better homemade bread and baked goods.
 
-Workshop definition:
+Working definition:
 
-Mission is a measurable and achievable milestone that bridges who the company is today and who it wants to become. The workshop suggests a 2 to 5 year horizon.
+Mission is a measurable and achievable milestone that bridges who the company is today and who it wants to become. Use a 2 to 5 year horizon.
 
 Recommended 5-year mission:
 
@@ -128,7 +128,7 @@ Materials, packaging, and instructions should reduce friction, prevent confusion
 
 Baking is not only about food. It is about pride, care, creativity, family, and sharing.
 
-Workshop value filter:
+Value filter:
 
 - Core values: clarity, useful completeness, honest confidence, thoughtful quality.
 - Aspirational values: stronger community, better educational content, more polished product systems.
@@ -411,7 +411,7 @@ For the sourdough launch:
 
 ## Brand Personality
 
-The Elite workshop says a brand is not a logo; it functions more like a character. The brand must be human enough to scale without becoming faceless, but consistent enough that copy, packaging, content, and support all sound like the same company.
+A brand is not only a logo; it functions more like a character. The brand must be human enough to scale without becoming faceless, but consistent enough that copy, packaging, content, and support all sound like the same company.
 
 ### Primary Character Trait
 
