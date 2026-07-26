@@ -12,6 +12,12 @@ const documents = [
     summary: "Personality, voice, visual direction, and launch priorities."
   },
   {
+    file: "customer_avatar_research.MD",
+    title: "Customer Avatar Research",
+    kicker: "Audience",
+    summary: "DigitalMarketer customer avatar framework applied to the baking brand."
+  },
+  {
     title: "Brand Audit",
     kicker: "Workshop",
     summary: "6-point brand audit with score, rationale, and action items.",
